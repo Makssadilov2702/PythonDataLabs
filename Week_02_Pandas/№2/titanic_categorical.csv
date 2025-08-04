@@ -1,0 +1,1310 @@
+,Survived,Passenger Class,Name,Sex,Ticket Number,Cabin,Port of Embarkation,Life Boat,Age_Category,Fare_Category,Deck
+0,Yes,First,"Allen, Miss. Elisabeth Walton",Female,24160,B5,Southampton,2,Young Adult (18-30],Luxury Fare (41.5-513],B
+1,Yes,First,"Allison, Master. Hudson Trevor",Male,113781,C22 C26,Southampton,11,Infant(0-1],Luxury Fare (41.5-513],C
+2,No,First,"Allison, Miss. Helen Loraine",Female,113781,C22 C26,Southampton,,Toddler (1-5],Luxury Fare (41.5-513],C
+3,No,First,"Allison, Mr. Hudson Joshua Creighton",Male,113781,C22 C26,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],C
+4,No,First,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Female,113781,C22 C26,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],C
+5,Yes,First,"Anderson, Mr. Harry",Male,19952,E12,Southampton,3,Adult (30-50],Premium Fare (22-41.5],E
+6,Yes,First,"Andrews, Miss. Kornelia Theodosia",Female,13502,D7,Southampton,10,Middle Aged (50-65],Luxury Fare (41.5-513],D
+7,No,First,"Andrews, Mr. Thomas Jr",Male,112050,A36,Southampton,,Adult (30-50],Lowest Fare (0-8],A
+8,Yes,First,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Female,11769,C101,Southampton,D,Middle Aged (50-65],Luxury Fare (41.5-513],C
+9,No,First,"Artagaveytia, Mr. Ramon",Male,PC 17609,,Cherbourg,,Senior (65-),Luxury Fare (41.5-513],
+10,No,First,"Astor, Col. John Jacob",Male,PC 17757,C62 C64,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],C
+11,Yes,First,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Female,PC 17757,C62 C64,Cherbourg,4,Teen(12-18],Luxury Fare (41.5-513],C
+12,Yes,First,"Aubart, Mme. Leontine Pauline",Female,PC 17477,B35,Cherbourg,9,Young Adult (18-30],Luxury Fare (41.5-513],B
+13,Yes,First,"Barber, Miss. Ellen ""Nellie""",Female,19877,,Southampton,6,Young Adult (18-30],Luxury Fare (41.5-513],
+14,Yes,First,"Barkworth, Mr. Algernon Henry Wilson",Male,27042,A23,Southampton,B,Senior (65-),Premium Fare (22-41.5],A
+15,No,First,"Baumann, Mr. John D",Male,PC 17318,,Southampton,,Missing,Premium Fare (22-41.5],
+16,No,First,"Baxter, Mr. Quigg Edmond",Male,PC 17558,B58 B60,Cherbourg,,Young Adult (18-30],Luxury Fare (41.5-513],B
+17,Yes,First,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Female,PC 17558,B58 B60,Cherbourg,6,Adult (30-50],Luxury Fare (41.5-513],B
+18,Yes,First,"Bazzani, Miss. Albina",Female,11813,D15,Cherbourg,8,Adult (30-50],Luxury Fare (41.5-513],D
+19,No,First,"Beattie, Mr. Thomson",Male,13050,C6,Cherbourg,A,Adult (30-50],Luxury Fare (41.5-513],C
+20,Yes,First,"Beckwith, Mr. Richard Leonard",Male,11751,D35,Southampton,5,Adult (30-50],Luxury Fare (41.5-513],D
+21,Yes,First,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Female,11751,D35,Southampton,5,Adult (30-50],Luxury Fare (41.5-513],D
+22,Yes,First,"Behr, Mr. Karl Howell",Male,111369,C148,Cherbourg,5,Young Adult (18-30],Premium Fare (22-41.5],C
+23,Yes,First,"Bidois, Miss. Rosalie",Female,PC 17757,,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],
+24,Yes,First,"Bird, Miss. Ellen",Female,PC 17483,C97,Southampton,8,Young Adult (18-30],Luxury Fare (41.5-513],C
+25,No,First,"Birnbaum, Mr. Jakob",Male,13905,,Cherbourg,,Young Adult (18-30],Premium Fare (22-41.5],
+26,Yes,First,"Bishop, Mr. Dickinson H",Male,11967,B49,Cherbourg,7,Young Adult (18-30],Luxury Fare (41.5-513],B
+27,Yes,First,"Bishop, Mrs. Dickinson H (Helen Walton)",Female,11967,B49,Cherbourg,7,Young Adult (18-30],Luxury Fare (41.5-513],B
+28,Yes,First,"Bissette, Miss. Amelia",Female,PC 17760,C99,Southampton,8,Adult (30-50],Luxury Fare (41.5-513],C
+29,Yes,First,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Male,110564,C52,Southampton,D,Young Adult (18-30],Premium Fare (22-41.5],C
+30,No,First,"Blackwell, Mr. Stephen Weart",Male,113784,T,Southampton,,Adult (30-50],Premium Fare (22-41.5],T
+31,Yes,First,"Blank, Mr. Henry",Male,112277,A31,Cherbourg,7,Adult (30-50],Premium Fare (22-41.5],A
+32,Yes,First,"Bonnell, Miss. Caroline",Female,36928,C7,Southampton,8,Young Adult (18-30],Luxury Fare (41.5-513],C
+33,Yes,First,"Bonnell, Miss. Elizabeth",Female,113783,C103,Southampton,8,Middle Aged (50-65],Premium Fare (22-41.5],C
+34,No,First,"Borebank, Mr. John James",Male,110489,D22,Southampton,,Adult (30-50],Premium Fare (22-41.5],D
+35,Yes,First,"Bowen, Miss. Grace Scott",Female,PC 17608,,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],
+36,Yes,First,"Bowerman, Miss. Elsie Edith",Female,113505,E33,Southampton,6,Young Adult (18-30],Luxury Fare (41.5-513],E
+37,Yes,First,"Bradley, Mr. George (""George Arthur Brayton"")",Male,111427,,Southampton,9,Missing,Premium Fare (22-41.5],
+38,No,First,"Brady, Mr. John Bertram",Male,113054,A21,Southampton,,Adult (30-50],Premium Fare (22-41.5],A
+39,No,First,"Brandeis, Mr. Emil",Male,PC 17591,B10,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],B
+40,No,First,"Brewe, Dr. Arthur Jackson",Male,112379,,Cherbourg,,Missing,Premium Fare (22-41.5],
+41,Yes,First,"Brown, Mrs. James Joseph (Margaret Tobin)",Female,PC 17610,B4,Cherbourg,6,Adult (30-50],Premium Fare (22-41.5],B
+42,Yes,First,"Brown, Mrs. John Murray (Caroline Lane Lamson)",Female,11769,C101,Southampton,D,Middle Aged (50-65],Luxury Fare (41.5-513],C
+43,Yes,First,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",Female,11813,D15,Cherbourg,8,Middle Aged (50-65],Luxury Fare (41.5-513],D
+44,Yes,First,"Burns, Miss. Elizabeth Margaret",Female,16966,E40,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],E
+45,No,First,"Butt, Major. Archibald Willingham",Male,113050,B38,Southampton,,Adult (30-50],Premium Fare (22-41.5],B
+46,No,First,"Cairns, Mr. Alexander",Male,113798,,Southampton,,Missing,Premium Fare (22-41.5],
+47,Yes,First,"Calderhead, Mr. Edward Pennington",Male,PC 17476,E24,Southampton,5,Adult (30-50],Premium Fare (22-41.5],E
+48,Yes,First,"Candee, Mrs. Edward (Helen Churchill Hungerford)",Female,PC 17606,,Cherbourg,6,Middle Aged (50-65],Premium Fare (22-41.5],
+49,Yes,First,"Cardeza, Mr. Thomas Drake Martinez",Male,PC 17755,B51 B53 B55,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],B
+50,Yes,First,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",Female,PC 17755,B51 B53 B55,Cherbourg,3,Middle Aged (50-65],Luxury Fare (41.5-513],B
+51,No,First,"Carlsson, Mr. Frans Olof",Male,695,B51 B53 B55,Southampton,,Adult (30-50],Lowest Fare (0-8],B
+52,No,First,"Carrau, Mr. Francisco M",Male,113059,,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],
+53,No,First,"Carrau, Mr. Jose Pedro",Male,113059,,Southampton,,Teen(12-18],Luxury Fare (41.5-513],
+54,Yes,First,"Carter, Master. William Thornton II",Male,113760,B96 B98,Southampton,4,Child (5-12] ,Luxury Fare (41.5-513],B
+55,Yes,First,"Carter, Miss. Lucile Polk",Female,113760,B96 B98,Southampton,4,Teen(12-18],Luxury Fare (41.5-513],B
+56,Yes,First,"Carter, Mr. William Ernest",Male,113760,B96 B98,Southampton,C,Adult (30-50],Luxury Fare (41.5-513],B
+57,Yes,First,"Carter, Mrs. William Ernest (Lucile Polk)",Female,113760,B96 B98,Southampton,4,Adult (30-50],Luxury Fare (41.5-513],B
+58,No,First,"Case, Mr. Howard Brown",Male,19924,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+59,Yes,First,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",Female,17770,,Cherbourg,5,Missing,Premium Fare (22-41.5],
+60,No,First,"Cavendish, Mr. Tyrell William",Male,19877,C46,Southampton,,Adult (30-50],Luxury Fare (41.5-513],C
+61,Yes,First,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",Female,19877,C46,Southampton,6,Senior (65-),Luxury Fare (41.5-513],C
+62,No,First,"Chaffee, Mr. Herbert Fuller",Male,W.E.P. 5734,E31,Southampton,,Adult (30-50],Luxury Fare (41.5-513],E
+63,Yes,First,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",Female,W.E.P. 5734,E31,Southampton,4,Adult (30-50],Luxury Fare (41.5-513],E
+64,Yes,First,"Chambers, Mr. Norman Campbell",Male,113806,E8,Southampton,5,Young Adult (18-30],Luxury Fare (41.5-513],E
+65,Yes,First,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Female,113806,E8,Southampton,5,Adult (30-50],Luxury Fare (41.5-513],E
+66,Yes,First,"Chaudanson, Miss. Victorine",Female,PC 17608,B61,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],B
+67,Yes,First,"Cherry, Miss. Gladys",Female,110152,B77,Southampton,8,Young Adult (18-30],Luxury Fare (41.5-513],B
+68,Yes,First,"Chevre, Mr. Paul Romaine",Male,PC 17594,A9,Cherbourg,7,Adult (30-50],Premium Fare (22-41.5],A
+69,Yes,First,"Chibnall, Mrs. (Edith Martha Bowerman)",Female,113505,E33,Southampton,6,Missing,Luxury Fare (41.5-513],E
+70,No,First,"Chisholm, Mr. Roderick Robert Crispin",Male,112051,,Southampton,,Missing,Lowest Fare (0-8],
+71,No,First,"Clark, Mr. Walter Miller",Male,13508,C89,Cherbourg,,Young Adult (18-30],Luxury Fare (41.5-513],C
+72,Yes,First,"Clark, Mrs. Walter Miller (Virginia McDowell)",Female,13508,C89,Cherbourg,4,Young Adult (18-30],Luxury Fare (41.5-513],C
+73,Yes,First,"Cleaver, Miss. Alice",Female,113781,,Southampton,11,Young Adult (18-30],Luxury Fare (41.5-513],
+74,No,First,"Clifford, Mr. George Quincy",Male,110465,A14,Southampton,,Missing,Luxury Fare (41.5-513],A
+75,No,First,"Colley, Mr. Edward Pomeroy",Male,5727,E58,Southampton,,Adult (30-50],Premium Fare (22-41.5],E
+76,Yes,First,"Compton, Miss. Sara Rebecca",Female,PC 17756,E49,Cherbourg,14,Adult (30-50],Luxury Fare (41.5-513],E
+77,No,First,"Compton, Mr. Alexander Taylor Jr",Male,PC 17756,E52,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],E
+78,Yes,First,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",Female,PC 17756,E45,Cherbourg,14,Middle Aged (50-65],Luxury Fare (41.5-513],E
+79,Yes,First,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",Female,11770,C101,Southampton,2,Middle Aged (50-65],Premium Fare (22-41.5],C
+80,No,First,"Crafton, Mr. John Bertram",Male,113791,,Southampton,,Missing,Premium Fare (22-41.5],
+81,No,First,"Crosby, Capt. Edward Gifford",Male,WE/P 5735,B22,Southampton,,Senior (65-),Luxury Fare (41.5-513],B
+82,Yes,First,"Crosby, Miss. Harriet R",Female,WE/P 5735,B22,Southampton,7,Adult (30-50],Luxury Fare (41.5-513],B
+83,Yes,First,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",Female,112901,B26,Southampton,7,Middle Aged (50-65],Premium Fare (22-41.5],B
+84,No,First,"Cumings, Mr. John Bradley",Male,PC 17599,C85,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],C
+85,Yes,First,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Female,PC 17599,C85,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],C
+86,Yes,First,"Daly, Mr. Peter Denis ",Male,113055,E17,Southampton,5 9,Middle Aged (50-65],Premium Fare (22-41.5],E
+87,Yes,First,"Daniel, Mr. Robert Williams",Male,113804,,Southampton,3,Young Adult (18-30],Premium Fare (22-41.5],
+88,Yes,First,"Daniels, Miss. Sarah",Female,113781,,Southampton,8,Adult (30-50],Luxury Fare (41.5-513],
+89,No,First,"Davidson, Mr. Thornton",Male,F.C. 12750,B71,Southampton,,Adult (30-50],Luxury Fare (41.5-513],B
+90,Yes,First,"Davidson, Mrs. Thornton (Orian Hays)",Female,F.C. 12750,B71,Southampton,3,Young Adult (18-30],Luxury Fare (41.5-513],B
+91,Yes,First,"Dick, Mr. Albert Adrian",Male,17474,B20,Southampton,3,Adult (30-50],Luxury Fare (41.5-513],B
+92,Yes,First,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Female,17474,B20,Southampton,3,Teen(12-18],Luxury Fare (41.5-513],B
+93,Yes,First,"Dodge, Dr. Washington",Male,33638,A34,Southampton,13,Middle Aged (50-65],Luxury Fare (41.5-513],A
+94,Yes,First,"Dodge, Master. Washington",Male,33638,A34,Southampton,5,Toddler (1-5],Luxury Fare (41.5-513],A
+95,Yes,First,"Dodge, Mrs. Washington (Ruth Vidaver)",Female,33638,A34,Southampton,5,Middle Aged (50-65],Luxury Fare (41.5-513],A
+96,No,First,"Douglas, Mr. Walter Donald",Male,PC 17761,C86,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],C
+97,Yes,First,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",Female,PC 17558,B58 B60,Cherbourg,6,Young Adult (18-30],Luxury Fare (41.5-513],B
+98,Yes,First,"Douglas, Mrs. Walter Donald (Mahala Dutton)",Female,PC 17761,C86,Cherbourg,2,Adult (30-50],Luxury Fare (41.5-513],C
+99,Yes,First,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Female,11755,A16,Cherbourg,1,Adult (30-50],Premium Fare (22-41.5],A
+100,Yes,First,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Male,PC 17485,A20,Cherbourg,1,Adult (30-50],Luxury Fare (41.5-513],A
+101,No,First,"Dulles, Mr. William Crothers",Male,PC 17580,A18,Cherbourg,,Adult (30-50],Premium Fare (22-41.5],A
+102,Yes,First,"Earnshaw, Mrs. Boulton (Olive Potter)",Female,11767,C54,Cherbourg,7,Young Adult (18-30],Luxury Fare (41.5-513],C
+103,Yes,First,"Endres, Miss. Caroline Louise",Female,PC 17757,C45,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],C
+104,Yes,First,"Eustis, Miss. Elizabeth Mussey",Female,36947,D20,Cherbourg,4,Middle Aged (50-65],Luxury Fare (41.5-513],D
+105,No,First,"Evans, Miss. Edith Corse",Female,PC 17531,A29,Cherbourg,,Adult (30-50],Premium Fare (22-41.5],A
+106,No,First,"Farthing, Mr. John",Male,PC 17483,C95,Southampton,,Missing,Luxury Fare (41.5-513],C
+107,Yes,First,"Flegenheim, Mrs. Alfred (Antoinette)",Female,PC 17598,,Southampton,7,Missing,Premium Fare (22-41.5],
+108,Yes,First,"Fleming, Miss. Margaret",Female,17421,,Cherbourg,4,Missing,Luxury Fare (41.5-513],
+109,Yes,First,"Flynn, Mr. John Irwin (""Irving"")",Male,PC 17474,E25,Southampton,5,Adult (30-50],Premium Fare (22-41.5],E
+110,No,First,"Foreman, Mr. Benjamin Laventall",Male,113051,C111,Cherbourg,,Young Adult (18-30],Premium Fare (22-41.5],C
+111,Yes,First,"Fortune, Miss. Alice Elizabeth",Female,19950,C23 C25 C27,Southampton,10,Young Adult (18-30],Luxury Fare (41.5-513],C
+112,Yes,First,"Fortune, Miss. Ethel Flora",Female,19950,C23 C25 C27,Southampton,10,Young Adult (18-30],Luxury Fare (41.5-513],C
+113,Yes,First,"Fortune, Miss. Mabel Helen",Female,19950,C23 C25 C27,Southampton,10,Young Adult (18-30],Luxury Fare (41.5-513],C
+114,No,First,"Fortune, Mr. Charles Alexander",Male,19950,C23 C25 C27,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],C
+115,No,First,"Fortune, Mr. Mark",Male,19950,C23 C25 C27,Southampton,,Middle Aged (50-65],Luxury Fare (41.5-513],C
+116,Yes,First,"Fortune, Mrs. Mark (Mary McDougald)",Female,19950,C23 C25 C27,Southampton,10,Middle Aged (50-65],Luxury Fare (41.5-513],C
+117,Yes,First,"Francatelli, Miss. Laura Mabel",Female,PC 17485,E36,Cherbourg,1,Young Adult (18-30],Luxury Fare (41.5-513],E
+118,No,First,"Franklin, Mr. Thomas Parham",Male,113778,D34,Southampton,,Missing,Premium Fare (22-41.5],D
+119,Yes,First,"Frauenthal, Dr. Henry William",Male,PC 17611,,Southampton,5,Adult (30-50],Luxury Fare (41.5-513],
+120,Yes,First,"Frauenthal, Mr. Isaac Gerald",Male,17765,D40,Cherbourg,5,Adult (30-50],Premium Fare (22-41.5],D
+121,Yes,First,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Female,PC 17611,,Southampton,5,Missing,Luxury Fare (41.5-513],
+122,Yes,First,"Frolicher, Miss. Hedwig Margaritha",Female,13568,B39,Cherbourg,5,Young Adult (18-30],Luxury Fare (41.5-513],B
+123,Yes,First,"Frolicher-Stehli, Mr. Maxmillian",Male,13567,B41,Cherbourg,5,Middle Aged (50-65],Luxury Fare (41.5-513],B
+124,Yes,First,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",Female,13567,B41,Cherbourg,5,Adult (30-50],Luxury Fare (41.5-513],B
+125,No,First,"Fry, Mr. Richard",Male,112058,B102,Southampton,,Missing,Lowest Fare (0-8],B
+126,No,First,"Futrelle, Mr. Jacques Heath",Male,113803,C123,Southampton,,Adult (30-50],Luxury Fare (41.5-513],C
+127,Yes,First,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Female,113803,C123,Southampton,D,Adult (30-50],Luxury Fare (41.5-513],C
+128,No,First,"Gee, Mr. Arthur H",Male,111320,E63,Southampton,,Adult (30-50],Premium Fare (22-41.5],E
+129,Yes,First,"Geiger, Miss. Amalie",Female,113503,C130,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],C
+130,Yes,First,"Gibson, Miss. Dorothy Winifred",Female,112378,,Cherbourg,7,Young Adult (18-30],Luxury Fare (41.5-513],
+131,Yes,First,"Gibson, Mrs. Leonard (Pauline C Boeson)",Female,112378,,Cherbourg,7,Adult (30-50],Luxury Fare (41.5-513],
+132,No,First,"Giglio, Mr. Victor",Male,PC 17593,B86,Cherbourg,,Young Adult (18-30],Luxury Fare (41.5-513],B
+133,Yes,First,"Goldenberg, Mr. Samuel L",Male,17453,C92,Cherbourg,5,Adult (30-50],Luxury Fare (41.5-513],C
+134,Yes,First,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Female,17453,C92,Cherbourg,5,Missing,Luxury Fare (41.5-513],C
+135,No,First,"Goldschmidt, Mr. George B",Male,PC 17754,A5,Cherbourg,,Senior (65-),Premium Fare (22-41.5],A
+136,Yes,First,"Gracie, Col. Archibald IV",Male,113780,C51,Cherbourg,B,Middle Aged (50-65],Premium Fare (22-41.5],C
+137,Yes,First,"Graham, Miss. Margaret Edith",Female,112053,B42,Southampton,3,Young Adult (18-30],Premium Fare (22-41.5],B
+138,No,First,"Graham, Mr. George Edward",Male,PC 17582,C91,Southampton,,Adult (30-50],Luxury Fare (41.5-513],C
+139,Yes,First,"Graham, Mrs. William Thompson (Edith Junkins)",Female,PC 17582,C125,Southampton,3,Middle Aged (50-65],Luxury Fare (41.5-513],C
+140,Yes,First,"Greenfield, Mr. William Bertram",Male,PC 17759,D10 D12,Cherbourg,7,Young Adult (18-30],Luxury Fare (41.5-513],D
+141,Yes,First,"Greenfield, Mrs. Leo David (Blanche Strouse)",Female,PC 17759,D10 D12,Cherbourg,7,Adult (30-50],Luxury Fare (41.5-513],D
+142,No,First,"Guggenheim, Mr. Benjamin",Male,PC 17593,B82 B84,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],B
+143,Yes,First,"Harder, Mr. George Achilles",Male,11765,E50,Cherbourg,5,Young Adult (18-30],Luxury Fare (41.5-513],E
+144,Yes,First,"Harder, Mrs. George Achilles (Dorothy Annan)",Female,11765,E50,Cherbourg,5,Young Adult (18-30],Luxury Fare (41.5-513],E
+145,Yes,First,"Harper, Mr. Henry Sleeper",Male,PC 17572,D33,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],D
+146,Yes,First,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Female,PC 17572,D33,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],D
+147,No,First,"Harrington, Mr. Charles H",Male,113796,,Southampton,,Missing,Luxury Fare (41.5-513],
+148,No,First,"Harris, Mr. Henry Birkhardt",Male,36973,C83,Southampton,,Adult (30-50],Luxury Fare (41.5-513],C
+149,Yes,First,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Female,36973,C83,Southampton,D,Adult (30-50],Luxury Fare (41.5-513],C
+150,No,First,"Harrison, Mr. William",Male,112059,B94,Southampton,,Adult (30-50],Lowest Fare (0-8],B
+151,Yes,First,"Hassab, Mr. Hammad",Male,PC 17572,D49,Cherbourg,3,Young Adult (18-30],Luxury Fare (41.5-513],D
+152,Yes,First,"Hawksford, Mr. Walter James",Male,16988,D45,Southampton,3,Missing,Premium Fare (22-41.5],D
+153,Yes,First,"Hays, Miss. Margaret Bechstein",Female,11767,C54,Cherbourg,7,Young Adult (18-30],Luxury Fare (41.5-513],C
+154,No,First,"Hays, Mr. Charles Melville",Male,12749,B69,Southampton,,Middle Aged (50-65],Luxury Fare (41.5-513],B
+155,Yes,First,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Female,12749,B69,Southampton,3,Middle Aged (50-65],Luxury Fare (41.5-513],B
+156,No,First,"Head, Mr. Christopher",Male,113038,B11,Southampton,,Adult (30-50],Luxury Fare (41.5-513],B
+157,No,First,"Hilliard, Mr. Herbert Henry",Male,17463,E46,Southampton,,Missing,Luxury Fare (41.5-513],E
+158,No,First,"Hipkins, Mr. William Edward",Male,680,C39,Southampton,,Middle Aged (50-65],Luxury Fare (41.5-513],C
+159,Yes,First,"Hippach, Miss. Jean Gertrude",Female,111361,B18,Cherbourg,4,Teen(12-18],Luxury Fare (41.5-513],B
+160,Yes,First,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Female,111361,B18,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],B
+161,Yes,First,"Hogeboom, Mrs. John C (Anna Andrews)",Female,13502,D11,Southampton,10,Middle Aged (50-65],Luxury Fare (41.5-513],D
+162,No,First,"Holverson, Mr. Alexander Oskar",Male,113789,,Southampton,,Adult (30-50],Luxury Fare (41.5-513],
+163,Yes,First,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Female,113789,,Southampton,8,Adult (30-50],Luxury Fare (41.5-513],
+164,Yes,First,"Homer, Mr. Harry (""Mr E Haven"")",Male,111426,,Cherbourg,15,Adult (30-50],Premium Fare (22-41.5],
+165,Yes,First,"Hoyt, Mr. Frederick Maxfield",Male,19943,C93,Southampton,D,Adult (30-50],Luxury Fare (41.5-513],C
+166,No,First,"Hoyt, Mr. William Fisher",Male,PC 17600,,Cherbourg,14,Missing,Premium Fare (22-41.5],
+167,Yes,First,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Female,19943,C93,Southampton,D,Adult (30-50],Luxury Fare (41.5-513],C
+168,Yes,First,"Icard, Miss. Amelie",Female,113572,B28,,6,Adult (30-50],Luxury Fare (41.5-513],B
+169,No,First,"Isham, Miss. Ann Elizabeth",Female,PC 17595,C49,Cherbourg,,Adult (30-50],Premium Fare (22-41.5],C
+170,Yes,First,"Ismay, Mr. Joseph Bruce",Male,112058,B52 B54 B56,Southampton,C,Adult (30-50],Lowest Fare (0-8],B
+171,No,First,"Jones, Mr. Charles Cresson",Male,694,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+172,No,First,"Julian, Mr. Henry Forbes",Male,113044,E60,Southampton,,Adult (30-50],Premium Fare (22-41.5],E
+173,No,First,"Keeping, Mr. Edwin",Male,113503,C132,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],C
+174,No,First,"Kent, Mr. Edward Austin",Male,11771,B37,Cherbourg,,Middle Aged (50-65],Premium Fare (22-41.5],B
+175,No,First,"Kenyon, Mr. Frederick R",Male,17464,D21,Southampton,,Adult (30-50],Luxury Fare (41.5-513],D
+176,Yes,First,"Kenyon, Mrs. Frederick R (Marion)",Female,17464,D21,Southampton,8,Missing,Luxury Fare (41.5-513],D
+177,Yes,First,"Kimball, Mr. Edwin Nelson Jr",Male,11753,D19,Southampton,5,Adult (30-50],Luxury Fare (41.5-513],D
+178,Yes,First,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",Female,11753,D19,Southampton,5,Adult (30-50],Luxury Fare (41.5-513],D
+179,No,First,"Klaber, Mr. Herman",Male,113028,C124,Southampton,,Missing,Premium Fare (22-41.5],C
+180,Yes,First,"Kreuchen, Miss. Emilie",Female,24160,,Southampton,2,Adult (30-50],Luxury Fare (41.5-513],
+181,Yes,First,"Leader, Dr. Alice (Farnham)",Female,17465,D17,Southampton,8,Adult (30-50],Premium Fare (22-41.5],D
+182,Yes,First,"LeRoy, Miss. Bertha",Female,PC 17761,,Cherbourg,2,Young Adult (18-30],Luxury Fare (41.5-513],
+183,Yes,First,"Lesurer, Mr. Gustave J",Male,PC 17755,B101,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],B
+184,No,First,"Lewy, Mr. Ervin G",Male,PC 17612,,Cherbourg,,Missing,Premium Fare (22-41.5],
+185,No,First,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",Male,17475,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+186,Yes,First,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",Female,112377,,Cherbourg,6,Middle Aged (50-65],Premium Fare (22-41.5],
+187,Yes,First,"Lines, Miss. Mary Conover",Female,PC 17592,D28,Southampton,9,Teen(12-18],Premium Fare (22-41.5],D
+188,Yes,First,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",Female,PC 17592,D28,Southampton,9,Middle Aged (50-65],Premium Fare (22-41.5],D
+189,No,First,"Long, Mr. Milton Clyde",Male,113501,D6,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],D
+190,Yes,First,"Longley, Miss. Gretchen Fiske",Female,13502,D9,Southampton,10,Young Adult (18-30],Luxury Fare (41.5-513],D
+191,No,First,"Loring, Mr. Joseph Holland",Male,113801,,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],
+192,Yes,First,"Lurette, Miss. Elise",Female,PC 17569,B80,Cherbourg,,Middle Aged (50-65],Luxury Fare (41.5-513],B
+193,Yes,First,"Madill, Miss. Georgette Alexandra",Female,24160,B5,Southampton,2,Teen(12-18],Luxury Fare (41.5-513],B
+194,No,First,"Maguire, Mr. John Edward",Male,110469,C106,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],C
+195,Yes,First,"Maioni, Miss. Roberta",Female,110152,B79,Southampton,8,Teen(12-18],Luxury Fare (41.5-513],B
+196,Yes,First,"Marechal, Mr. Pierre",Male,11774,C47,Cherbourg,7,Missing,Premium Fare (22-41.5],C
+197,No,First,"Marvin, Mr. Daniel Warner",Male,113773,D30,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],D
+198,Yes,First,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",Female,113773,D30,Southampton,10,Teen(12-18],Luxury Fare (41.5-513],D
+199,Yes,First,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Female,PC 17482,C90,Cherbourg,6,Young Adult (18-30],Luxury Fare (41.5-513],C
+200,No,First,"McCaffry, Mr. Thomas Francis",Male,13050,C6,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],C
+201,No,First,"McCarthy, Mr. Timothy J",Male,17463,E46,Southampton,,Middle Aged (50-65],Luxury Fare (41.5-513],E
+202,Yes,First,"McGough, Mr. James Robert",Male,PC 17473,E25,Southampton,7,Adult (30-50],Premium Fare (22-41.5],E
+203,No,First,"Meyer, Mr. Edgar Joseph",Male,PC 17604,,Cherbourg,,Young Adult (18-30],Luxury Fare (41.5-513],
+204,Yes,First,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Female,PC 17604,,Cherbourg,6,Missing,Luxury Fare (41.5-513],
+205,No,First,"Millet, Mr. Francis Davis",Male,13509,E38,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],E
+206,No,First,"Minahan, Dr. William Edward",Male,19928,C78,Queenstown,,Adult (30-50],Luxury Fare (41.5-513],C
+207,Yes,First,"Minahan, Miss. Daisy E",Female,19928,C78,Queenstown,14,Adult (30-50],Luxury Fare (41.5-513],C
+208,Yes,First,"Minahan, Mrs. William Edward (Lillian E Thorpe)",Female,19928,C78,Queenstown,14,Adult (30-50],Luxury Fare (41.5-513],C
+209,Yes,First,"Mock, Mr. Philipp Edmund",Male,13236,C78,Cherbourg,11,Young Adult (18-30],Luxury Fare (41.5-513],C
+210,No,First,"Molson, Mr. Harry Markland",Male,113787,C30,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],C
+211,No,First,"Moore, Mr. Clarence Bloomfield",Male,113796,,Southampton,,Adult (30-50],Luxury Fare (41.5-513],
+212,No,First,"Natsch, Mr. Charles H",Male,PC 17596,C118,Cherbourg,,Adult (30-50],Premium Fare (22-41.5],C
+213,Yes,First,"Newell, Miss. Madeleine",Female,35273,D36,Cherbourg,6,Adult (30-50],Luxury Fare (41.5-513],D
+214,Yes,First,"Newell, Miss. Marjorie",Female,35273,D36,Cherbourg,6,Young Adult (18-30],Luxury Fare (41.5-513],D
+215,No,First,"Newell, Mr. Arthur Webster",Male,35273,D48,Cherbourg,,Middle Aged (50-65],Luxury Fare (41.5-513],D
+216,Yes,First,"Newsom, Miss. Helen Monypeny",Female,11752,D47,Southampton,5,Young Adult (18-30],Premium Fare (22-41.5],D
+217,No,First,"Nicholson, Mr. Arthur Ernest",Male,693,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+218,Yes,First,"Oliva y Ocana, Dona. Fermina",Female,PC 17758,C105,Cherbourg,8,Adult (30-50],Luxury Fare (41.5-513],C
+219,Yes,First,"Omont, Mr. Alfred Fernand",Male,F.C. 12998,,Cherbourg,7,Missing,Premium Fare (22-41.5],
+220,Yes,First,"Ostby, Miss. Helene Ragnhild",Female,113509,B36,Cherbourg,5,Young Adult (18-30],Luxury Fare (41.5-513],B
+221,No,First,"Ostby, Mr. Engelhart Cornelius",Male,113509,B30,Cherbourg,,Middle Aged (50-65],Luxury Fare (41.5-513],B
+222,No,First,"Ovies y Rodriguez, Mr. Servando",Male,PC 17562,D43,Cherbourg,,Young Adult (18-30],Premium Fare (22-41.5],D
+223,No,First,"Parr, Mr. William Henry Marsh",Male,112052,,Southampton,,Missing,Lowest Fare (0-8],
+224,No,First,"Partner, Mr. Austen",Male,113043,C124,Southampton,,Adult (30-50],Premium Fare (22-41.5],C
+225,No,First,"Payne, Mr. Vivian Ponsonby",Male,12749,B24,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],B
+226,No,First,"Pears, Mr. Thomas Clinton",Male,113776,C2,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],C
+227,Yes,First,"Pears, Mrs. Thomas (Edith Wearne)",Female,113776,C2,Southampton,8,Young Adult (18-30],Luxury Fare (41.5-513],C
+228,No,First,"Penasco y Castellana, Mr. Victor de Satode",Male,PC 17758,C65,Cherbourg,,Teen(12-18],Luxury Fare (41.5-513],C
+229,Yes,First,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Female,PC 17758,C65,Cherbourg,8,Teen(12-18],Luxury Fare (41.5-513],C
+230,Yes,First,"Perreault, Miss. Anne",Female,12749,B73,Southampton,3,Young Adult (18-30],Luxury Fare (41.5-513],B
+231,Yes,First,"Peuchen, Major. Arthur Godfrey",Male,113786,C104,Southampton,6,Middle Aged (50-65],Premium Fare (22-41.5],C
+232,No,First,"Porter, Mr. Walter Chamberlain",Male,110465,C110,Southampton,,Adult (30-50],Luxury Fare (41.5-513],C
+233,Yes,First,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Female,11767,C50,Cherbourg,7,Middle Aged (50-65],Luxury Fare (41.5-513],C
+234,No,First,"Reuchlin, Jonkheer. John George",Male,19972,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+235,Yes,First,"Rheims, Mr. George Alexander Lucien",Male,PC 17607,,Southampton,A,Missing,Premium Fare (22-41.5],
+236,No,First,"Ringhini, Mr. Sante",Male,PC 17760,,Cherbourg,,Young Adult (18-30],Luxury Fare (41.5-513],
+237,No,First,"Robbins, Mr. Victor",Male,PC 17757,,Cherbourg,,Missing,Luxury Fare (41.5-513],
+238,Yes,First,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Female,24160,B3,Southampton,2,Adult (30-50],Luxury Fare (41.5-513],B
+239,No,First,"Roebling, Mr. Washington Augustus II",Male,PC 17590,A24,Southampton,,Adult (30-50],Luxury Fare (41.5-513],A
+240,Yes,First,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Male,111428,,Southampton,9,Adult (30-50],Premium Fare (22-41.5],
+241,No,First,"Rood, Mr. Hugh Roscoe",Male,113767,A32,Southampton,,Missing,Luxury Fare (41.5-513],A
+242,Yes,First,"Rosenbaum, Miss. Edith Louise",Female,PC 17613,A11,Cherbourg,11,Adult (30-50],Premium Fare (22-41.5],A
+243,No,First,"Rosenshine, Mr. George (""Mr George Thorne"")",Male,PC 17585,,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],
+244,No,First,"Ross, Mr. John Hugo",Male,13049,A10,Cherbourg,,Adult (30-50],Premium Fare (22-41.5],A
+245,Yes,First,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Female,110152,B77,Southampton,8,Adult (30-50],Luxury Fare (41.5-513],B
+246,No,First,"Rothschild, Mr. Martin",Male,PC 17603,,Cherbourg,,Middle Aged (50-65],Luxury Fare (41.5-513],
+247,Yes,First,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Female,PC 17603,,Cherbourg,6,Middle Aged (50-65],Luxury Fare (41.5-513],
+248,No,First,"Rowe, Mr. Alfred G",Male,113790,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+249,Yes,First,"Ryerson, Master. John Borie",Male,PC 17608,B57 B59 B63 B66,Cherbourg,4,Teen(12-18],Luxury Fare (41.5-513],B
+250,Yes,First,"Ryerson, Miss. Emily Borie",Female,PC 17608,B57 B59 B63 B66,Cherbourg,4,Teen(12-18],Luxury Fare (41.5-513],B
+251,Yes,First,"Ryerson, Miss. Susan Parker ""Suzette""",Female,PC 17608,B57 B59 B63 B66,Cherbourg,4,Young Adult (18-30],Luxury Fare (41.5-513],B
+252,No,First,"Ryerson, Mr. Arthur Larned",Male,PC 17608,B57 B59 B63 B66,Cherbourg,,Middle Aged (50-65],Luxury Fare (41.5-513],B
+253,Yes,First,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",Female,PC 17608,B57 B59 B63 B66,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],B
+254,Yes,First,"Saalfeld, Mr. Adolphe",Male,19988,C106,Southampton,3,Missing,Premium Fare (22-41.5],C
+255,Yes,First,"Sagesser, Mlle. Emma",Female,PC 17477,B35,Cherbourg,9,Young Adult (18-30],Luxury Fare (41.5-513],B
+256,Yes,First,"Salomon, Mr. Abraham L",Male,111163,,Southampton,1,Missing,Premium Fare (22-41.5],
+257,Yes,First,"Schabert, Mrs. Paul (Emma Mock)",Female,13236,C28,Cherbourg,11,Adult (30-50],Luxury Fare (41.5-513],C
+258,Yes,First,"Serepeca, Miss. Augusta",Female,113798,,Cherbourg,4,Young Adult (18-30],Premium Fare (22-41.5],
+259,Yes,First,"Seward, Mr. Frederic Kimber",Male,113794,,Southampton,7,Adult (30-50],Premium Fare (22-41.5],
+260,Yes,First,"Shutes, Miss. Elizabeth W",Female,PC 17582,C125,Southampton,3,Adult (30-50],Luxury Fare (41.5-513],C
+261,Yes,First,"Silverthorne, Mr. Spencer Victor",Male,PC 17475,E24,Southampton,5,Adult (30-50],Premium Fare (22-41.5],E
+262,No,First,"Silvey, Mr. William Baird",Male,13507,E44,Southampton,,Adult (30-50],Luxury Fare (41.5-513],E
+263,Yes,First,"Silvey, Mrs. William Baird (Alice Munger)",Female,13507,E44,Southampton,11,Adult (30-50],Luxury Fare (41.5-513],E
+264,Yes,First,"Simonius-Blumer, Col. Oberst Alfons",Male,13213,A26,Cherbourg,3,Middle Aged (50-65],Premium Fare (22-41.5],A
+265,Yes,First,"Sloper, Mr. William Thompson",Male,113788,A6,Southampton,7,Young Adult (18-30],Premium Fare (22-41.5],A
+266,No,First,"Smart, Mr. John Montgomery",Male,113792,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+267,No,First,"Smith, Mr. James Clinch",Male,17764,A7,Cherbourg,,Middle Aged (50-65],Premium Fare (22-41.5],A
+268,No,First,"Smith, Mr. Lucien Philip",Male,13695,C31,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],C
+269,No,First,"Smith, Mr. Richard William",Male,113056,A19,Southampton,,Missing,Premium Fare (22-41.5],A
+270,Yes,First,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",Female,13695,C31,Southampton,6,Teen(12-18],Luxury Fare (41.5-513],C
+271,Yes,First,"Snyder, Mr. John Pillsbury",Male,21228,B45,Southampton,7,Young Adult (18-30],Luxury Fare (41.5-513],B
+272,Yes,First,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",Female,21228,B45,Southampton,7,Young Adult (18-30],Luxury Fare (41.5-513],B
+273,Yes,First,"Spedden, Master. Robert Douglas",Male,16966,E34,Cherbourg,3,Child (5-12] ,Luxury Fare (41.5-513],E
+274,Yes,First,"Spedden, Mr. Frederic Oakley",Male,16966,E34,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],E
+275,Yes,First,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Female,16966,E34,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],E
+276,No,First,"Spencer, Mr. William Augustus",Male,PC 17569,B78,Cherbourg,,Middle Aged (50-65],Luxury Fare (41.5-513],B
+277,Yes,First,"Spencer, Mrs. William Augustus (Marie Eugenie)",Female,PC 17569,B78,Cherbourg,6,Missing,Luxury Fare (41.5-513],B
+278,Yes,First,"Stahelin-Maeglin, Dr. Max",Male,13214,B50,Cherbourg,3,Adult (30-50],Premium Fare (22-41.5],B
+279,No,First,"Stead, Mr. William Thomas",Male,113514,C87,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],C
+280,Yes,First,"Stengel, Mr. Charles Emil Henry",Male,11778,C116,Cherbourg,1,Middle Aged (50-65],Luxury Fare (41.5-513],C
+281,Yes,First,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",Female,11778,C116,Cherbourg,5,Adult (30-50],Luxury Fare (41.5-513],C
+282,Yes,First,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Female,36947,D20,Cherbourg,4,Middle Aged (50-65],Luxury Fare (41.5-513],D
+283,No,First,"Stewart, Mr. Albert A",Male,PC 17605,,Cherbourg,,Missing,Premium Fare (22-41.5],
+284,Yes,First,"Stone, Mrs. George Nelson (Martha Evelyn)",Female,113572,B28,,6,Middle Aged (50-65],Luxury Fare (41.5-513],B
+285,No,First,"Straus, Mr. Isidor",Male,PC 17483,C55 C57,Southampton,,Senior (65-),Luxury Fare (41.5-513],C
+286,No,First,"Straus, Mrs. Isidor (Rosalie Ida Blun)",Female,PC 17483,C55 C57,Southampton,,Middle Aged (50-65],Luxury Fare (41.5-513],C
+287,No,First,"Sutton, Mr. Frederick",Male,36963,D50,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],D
+288,Yes,First,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Female,17466,D17,Southampton,8,Adult (30-50],Premium Fare (22-41.5],D
+289,Yes,First,"Taussig, Miss. Ruth",Female,110413,E68,Southampton,8,Teen(12-18],Luxury Fare (41.5-513],E
+290,No,First,"Taussig, Mr. Emil",Male,110413,E67,Southampton,,Middle Aged (50-65],Luxury Fare (41.5-513],E
+291,Yes,First,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Female,110413,E67,Southampton,8,Adult (30-50],Luxury Fare (41.5-513],E
+292,Yes,First,"Taylor, Mr. Elmer Zebley",Male,19996,C126,Southampton,5 7,Adult (30-50],Luxury Fare (41.5-513],C
+293,Yes,First,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Female,19996,C126,Southampton,5 7,Missing,Luxury Fare (41.5-513],C
+294,No,First,"Thayer, Mr. John Borland",Male,17421,C68,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],C
+295,Yes,First,"Thayer, Mr. John Borland Jr",Male,17421,C70,Cherbourg,B,Teen(12-18],Luxury Fare (41.5-513],C
+296,Yes,First,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Female,17421,C68,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],C
+297,Yes,First,"Thorne, Mrs. Gertrude Maybelle",Female,PC 17585,,Cherbourg,D,Missing,Luxury Fare (41.5-513],
+298,Yes,First,"Tucker, Mr. Gilbert Milligan Jr",Male,2543,C53,Cherbourg,7,Adult (30-50],Premium Fare (22-41.5],C
+299,No,First,"Uruchurtu, Don. Manuel E",Male,PC 17601,,Cherbourg,,Adult (30-50],Premium Fare (22-41.5],
+300,No,First,"Van der hoef, Mr. Wyckoff",Male,111240,B19,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],B
+301,No,First,"Walker, Mr. William Anderson",Male,36967,D46,Southampton,,Adult (30-50],Premium Fare (22-41.5],D
+302,Yes,First,"Ward, Miss. Anna",Female,PC 17755,,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],
+303,No,First,"Warren, Mr. Frank Manley",Male,110813,D37,Cherbourg,,Middle Aged (50-65],Luxury Fare (41.5-513],D
+304,Yes,First,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Female,110813,D37,Cherbourg,5,Middle Aged (50-65],Luxury Fare (41.5-513],D
+305,No,First,"Weir, Col. John",Male,113800,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+306,No,First,"White, Mr. Percival Wayland",Male,35281,D26,Southampton,,Middle Aged (50-65],Luxury Fare (41.5-513],D
+307,No,First,"White, Mr. Richard Frasar",Male,35281,D26,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],D
+308,Yes,First,"White, Mrs. John Stuart (Ella Holmes)",Female,PC 17760,C32,Cherbourg,8,Middle Aged (50-65],Luxury Fare (41.5-513],C
+309,Yes,First,"Wick, Miss. Mary Natalie",Female,36928,C7,Southampton,8,Adult (30-50],Luxury Fare (41.5-513],C
+310,No,First,"Wick, Mr. George Dennick",Male,36928,,Southampton,,Middle Aged (50-65],Luxury Fare (41.5-513],
+311,Yes,First,"Wick, Mrs. George Dennick (Mary Hitchcock)",Female,36928,,Southampton,8,Adult (30-50],Luxury Fare (41.5-513],
+312,No,First,"Widener, Mr. George Dunton",Male,113503,C80,Cherbourg,,Adult (30-50],Luxury Fare (41.5-513],C
+313,No,First,"Widener, Mr. Harry Elkins",Male,113503,C82,Cherbourg,,Young Adult (18-30],Luxury Fare (41.5-513],C
+314,Yes,First,"Widener, Mrs. George Dunton (Eleanor Elkins)",Female,113503,C80,Cherbourg,4,Adult (30-50],Luxury Fare (41.5-513],C
+315,Yes,First,"Willard, Miss. Constance",Female,113795,,Southampton,8 10,Young Adult (18-30],Premium Fare (22-41.5],
+316,No,First,"Williams, Mr. Charles Duane",Male,PC 17597,,Cherbourg,,Middle Aged (50-65],Luxury Fare (41.5-513],
+317,Yes,First,"Williams, Mr. Richard Norris II",Male,PC 17597,,Cherbourg,A,Young Adult (18-30],Luxury Fare (41.5-513],
+318,No,First,"Williams-Lambert, Mr. Fletcher Fellows",Male,113510,C128,Southampton,,Missing,Premium Fare (22-41.5],C
+319,Yes,First,"Wilson, Miss. Helen Alice",Female,16966,E39 E41,Cherbourg,3,Adult (30-50],Luxury Fare (41.5-513],E
+320,Yes,First,"Woolner, Mr. Hugh",Male,19947,C52,Southampton,D,Missing,Premium Fare (22-41.5],C
+321,No,First,"Wright, Mr. George",Male,113807,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+322,Yes,First,"Young, Miss. Marie Grice",Female,PC 17760,C32,Cherbourg,8,Adult (30-50],Luxury Fare (41.5-513],C
+323,No,Second,"Abelson, Mr. Samuel",Male,P/PP 3381,,Cherbourg,,Young Adult (18-30],Premium Fare (22-41.5],
+324,Yes,Second,"Abelson, Mrs. Samuel (Hannah Wizosky)",Female,P/PP 3381,,Cherbourg,10,Young Adult (18-30],Premium Fare (22-41.5],
+325,No,Second,"Aldworth, Mr. Charles Augustus",Male,248744,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+326,No,Second,"Andrew, Mr. Edgardo Samuel",Male,231945,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+327,No,Second,"Andrew, Mr. Frank Thomas",Male,C.A. 34050,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+328,No,Second,"Angle, Mr. William A",Male,226875,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+329,Yes,Second,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Female,226875,,Southampton,11,Adult (30-50],Premium Fare (22-41.5],
+330,No,Second,"Ashby, Mr. John",Male,244346,,Southampton,,Middle Aged (50-65],Standard Fare (10.5-22],
+331,No,Second,"Bailey, Mr. Percy Andrew",Male,29108,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+332,No,Second,"Baimbrigge, Mr. Charles Robert",Male,C.A. 31030,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+333,Yes,Second,"Ball, Mrs. (Ada E Hall)",Female,28551,D,Southampton,10,Adult (30-50],Standard Fare (10.5-22],D
+334,No,Second,"Banfield, Mr. Frederick James",Male,C.A./SOTON 34068,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+335,No,Second,"Bateman, Rev. Robert James",Male,S.O.P. 1166,,Southampton,,Middle Aged (50-65],Standard Fare (10.5-22],
+336,Yes,Second,"Beane, Mr. Edward",Male,2908,,Southampton,13,Adult (30-50],Premium Fare (22-41.5],
+337,Yes,Second,"Beane, Mrs. Edward (Ethel Clarke)",Female,2908,,Southampton,13,Young Adult (18-30],Premium Fare (22-41.5],
+338,No,Second,"Beauchamp, Mr. Henry James",Male,244358,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+339,Yes,Second,"Becker, Master. Richard F",Male,230136,F4,Southampton,11,Infant(0-1],Premium Fare (22-41.5],F
+340,Yes,Second,"Becker, Miss. Marion Louise",Female,230136,F4,Southampton,11,Toddler (1-5],Premium Fare (22-41.5],F
+341,Yes,Second,"Becker, Miss. Ruth Elizabeth",Female,230136,F4,Southampton,13,Child (5-12] ,Premium Fare (22-41.5],F
+342,Yes,Second,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",Female,230136,F4,Southampton,11,Adult (30-50],Premium Fare (22-41.5],F
+343,Yes,Second,"Beesley, Mr. Lawrence",Male,248698,D56,Southampton,13,Adult (30-50],Standard Fare (10.5-22],D
+344,Yes,Second,"Bentham, Miss. Lilian W",Female,28404,,Southampton,12,Young Adult (18-30],Standard Fare (10.5-22],
+345,No,Second,"Berriman, Mr. William John",Male,28425,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+346,No,Second,"Botsford, Mr. William Hull",Male,237670,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+347,No,Second,"Bowenur, Mr. Solomon",Male,211535,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+348,No,Second,"Bracken, Mr. James H",Male,220367,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+349,Yes,Second,"Brown, Miss. Amelia ""Mildred""",Female,248733,F33,Southampton,11,Young Adult (18-30],Standard Fare (10.5-22],F
+350,Yes,Second,"Brown, Miss. Edith Eileen",Female,29750,,Southampton,14,Teen(12-18],Premium Fare (22-41.5],
+351,No,Second,"Brown, Mr. Thomas William Solomon",Male,29750,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+352,Yes,Second,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Female,29750,,Southampton,14,Adult (30-50],Premium Fare (22-41.5],
+353,Yes,Second,"Bryhl, Miss. Dagmar Jenny Ingeborg ",Female,236853,,Southampton,12,Young Adult (18-30],Premium Fare (22-41.5],
+354,No,Second,"Bryhl, Mr. Kurt Arnold Gottfrid",Male,236853,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+355,Yes,Second,"Buss, Miss. Kate",Female,27849,,Southampton,9,Adult (30-50],Standard Fare (10.5-22],
+356,No,Second,"Butler, Mr. Reginald Fenton",Male,234686,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+357,No,Second,"Byles, Rev. Thomas Roussel Davids",Male,244310,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+358,Yes,Second,"Bystrom, Mrs. (Karolina)",Female,236852,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+359,Yes,Second,"Caldwell, Master. Alden Gates",Male,248738,,Southampton,13,Infant(0-1],Premium Fare (22-41.5],
+360,Yes,Second,"Caldwell, Mr. Albert Francis",Male,248738,,Southampton,13,Young Adult (18-30],Premium Fare (22-41.5],
+361,Yes,Second,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Female,248738,,Southampton,13,Young Adult (18-30],Premium Fare (22-41.5],
+362,Yes,Second,"Cameron, Miss. Clear Annie",Female,F.C.C. 13528,,Southampton,14,Adult (30-50],Standard Fare (10.5-22],
+363,No,Second,"Campbell, Mr. William",Male,239853,,Southampton,,Missing,Lowest Fare (0-8],
+364,No,Second,"Carbines, Mr. William",Male,28424,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+365,No,Second,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Female,244252,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+366,No,Second,"Carter, Rev. Ernest Courtenay",Male,244252,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+367,No,Second,"Chapman, Mr. Charles Henry",Male,248731,,Southampton,,Middle Aged (50-65],Standard Fare (10.5-22],
+368,No,Second,"Chapman, Mr. John Henry",Male,SC/AH 29037,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+369,No,Second,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",Female,SC/AH 29037,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+370,Yes,Second,"Christy, Miss. Julie Rachel",Female,237789,,Southampton,12,Young Adult (18-30],Premium Fare (22-41.5],
+371,Yes,Second,"Christy, Mrs. (Alice Frances)",Female,237789,,Southampton,12,Adult (30-50],Premium Fare (22-41.5],
+372,No,Second,"Clarke, Mr. Charles Valentine",Male,2003,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+373,Yes,Second,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Female,2003,,Southampton,14,Young Adult (18-30],Premium Fare (22-41.5],
+374,No,Second,"Coleridge, Mr. Reginald Charles",Male,W./C. 14263,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+375,No,Second,"Collander, Mr. Erik Gustaf",Male,248740,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+376,Yes,Second,"Collett, Mr. Sidney C Stuart",Male,28034,,Southampton,9,Young Adult (18-30],Budget Fare (8-10.5],
+377,Yes,Second,"Collyer, Miss. Marjorie ""Lottie""",Female,C.A. 31921,,Southampton,14,Child (5-12] ,Premium Fare (22-41.5],
+378,No,Second,"Collyer, Mr. Harvey",Male,C.A. 31921,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+379,Yes,Second,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Female,C.A. 31921,,Southampton,14,Adult (30-50],Premium Fare (22-41.5],
+380,Yes,Second,"Cook, Mrs. (Selena Rogers)",Female,W./C. 14266,F33,Southampton,14,Young Adult (18-30],Budget Fare (8-10.5],F
+381,No,Second,"Corbett, Mrs. Walter H (Irene Colvin)",Female,237249,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+382,No,Second,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",Female,F.C.C. 13534,,Southampton,,Missing,Standard Fare (10.5-22],
+383,No,Second,"Cotterill, Mr. Henry ""Harry""",Male,29107,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+384,No,Second,"Cunningham, Mr. Alfred Fleming",Male,239853,,Southampton,,Missing,Lowest Fare (0-8],
+385,Yes,Second,"Davies, Master. John Morgan Jr",Male,C.A. 33112,,Southampton,14,Child (5-12] ,Premium Fare (22-41.5],
+386,No,Second,"Davies, Mr. Charles Henry",Male,S.O.C. 14879,,Southampton,,Teen(12-18],Luxury Fare (41.5-513],
+387,Yes,Second,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",Female,C.A. 33112,,Southampton,14,Adult (30-50],Premium Fare (22-41.5],
+388,Yes,Second,"Davis, Miss. Mary",Female,237668,,Southampton,13,Young Adult (18-30],Standard Fare (10.5-22],
+389,No,Second,"de Brito, Mr. Jose Joaquim",Male,244360,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+390,No,Second,"Deacon, Mr. Percy William",Male,S.O.C. 14879,,Southampton,,Teen(12-18],Luxury Fare (41.5-513],
+391,No,Second,"del Carlo, Mr. Sebastiano",Male,SC/PARIS 2167,,Cherbourg,,Young Adult (18-30],Premium Fare (22-41.5],
+392,Yes,Second,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",Female,SC/PARIS 2167,,Cherbourg,12,Young Adult (18-30],Premium Fare (22-41.5],
+393,No,Second,"Denbury, Mr. Herbert",Male,C.A. 31029,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+394,No,Second,"Dibden, Mr. William",Male,S.O.C. 14879,,Southampton,,Teen(12-18],Luxury Fare (41.5-513],
+395,Yes,Second,"Doling, Miss. Elsie",Female,231919,,Southampton,,Teen(12-18],Premium Fare (22-41.5],
+396,Yes,Second,"Doling, Mrs. John T (Ada Julia Bone)",Female,231919,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+397,No,Second,"Downton, Mr. William James",Male,28403,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+398,Yes,Second,"Drew, Master. Marshall Brines",Male,28220,,Southampton,10,Child (5-12] ,Premium Fare (22-41.5],
+399,No,Second,"Drew, Mr. James Vivian",Male,28220,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+400,Yes,Second,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Female,28220,,Southampton,10,Adult (30-50],Premium Fare (22-41.5],
+401,Yes,Second,"Duran y More, Miss. Asuncion",Female,SC/PARIS 2149,,Cherbourg,12,Young Adult (18-30],Standard Fare (10.5-22],
+402,Yes,Second,"Duran y More, Miss. Florentina",Female,SC/PARIS 2148,,Cherbourg,12,Young Adult (18-30],Standard Fare (10.5-22],
+403,No,Second,"Eitemiller, Mr. George Floyd",Male,29751,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+404,No,Second,"Enander, Mr. Ingvar",Male,236854,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+405,No,Second,"Fahlstrom, Mr. Arne Jonas",Male,236171,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+406,No,Second,"Faunthorpe, Mr. Harry",Male,2926,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+407,Yes,Second,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Female,2926,,Southampton,16,Young Adult (18-30],Premium Fare (22-41.5],
+408,No,Second,"Fillbrook, Mr. Joseph Charles",Male,C.A. 15185,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+409,No,Second,"Fox, Mr. Stanley Hubert",Male,229236,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+410,No,Second,"Frost, Mr. Anthony Wood ""Archie""",Male,239854,,Southampton,,Missing,Lowest Fare (0-8],
+411,No,Second,"Funk, Miss. Annie Clemmer",Female,237671,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+412,No,Second,"Fynney, Mr. Joseph J",Male,239865,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+413,No,Second,"Gale, Mr. Harry",Male,28664,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+414,No,Second,"Gale, Mr. Shadrach",Male,28664,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+415,Yes,Second,"Garside, Miss. Ethel",Female,243880,,Southampton,12,Adult (30-50],Standard Fare (10.5-22],
+416,No,Second,"Gaskell, Mr. Alfred",Male,239865,,Southampton,,Teen(12-18],Premium Fare (22-41.5],
+417,No,Second,"Gavey, Mr. Lawrence",Male,31028,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+418,No,Second,"Gilbert, Mr. William",Male,C.A. 30769,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+419,No,Second,"Giles, Mr. Edgar",Male,28133,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+420,No,Second,"Giles, Mr. Frederick Edward",Male,28134,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+421,No,Second,"Giles, Mr. Ralph",Male,248726,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+422,No,Second,"Gill, Mr. John William",Male,233866,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+423,No,Second,"Gillespie, Mr. William Henry",Male,12233,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+424,No,Second,"Givard, Mr. Hans Kristensen",Male,250646,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+425,No,Second,"Greenberg, Mr. Samuel",Male,250647,,Southampton,,Middle Aged (50-65],Standard Fare (10.5-22],
+426,No,Second,"Hale, Mr. Reginald",Male,250653,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+427,Yes,Second,"Hamalainen, Master. Viljo",Male,250649,,Southampton,4,Infant(0-1],Standard Fare (10.5-22],
+428,Yes,Second,"Hamalainen, Mrs. William (Anna)",Female,250649,,Southampton,4,Young Adult (18-30],Standard Fare (10.5-22],
+429,No,Second,"Harbeck, Mr. William H",Male,248746,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+430,Yes,Second,"Harper, Miss. Annie Jessie ""Nina""",Female,248727,,Southampton,11,Child (5-12] ,Premium Fare (22-41.5],
+431,No,Second,"Harper, Rev. John",Male,248727,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+432,Yes,Second,"Harris, Mr. George",Male,S.W./PP 752,,Southampton,15,Middle Aged (50-65],Budget Fare (8-10.5],
+433,No,Second,"Harris, Mr. Walter",Male,W/C 14208,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+434,Yes,Second,"Hart, Miss. Eva Miriam",Female,F.C.C. 13529,,Southampton,14,Child (5-12] ,Premium Fare (22-41.5],
+435,No,Second,"Hart, Mr. Benjamin",Male,F.C.C. 13529,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+436,Yes,Second,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Female,F.C.C. 13529,,Southampton,14,Adult (30-50],Premium Fare (22-41.5],
+437,Yes,Second,"Herman, Miss. Alice",Female,220845,,Southampton,9,Young Adult (18-30],Luxury Fare (41.5-513],
+438,Yes,Second,"Herman, Miss. Kate",Female,220845,,Southampton,9,Young Adult (18-30],Luxury Fare (41.5-513],
+439,No,Second,"Herman, Mr. Samuel",Male,220845,,Southampton,,Adult (30-50],Luxury Fare (41.5-513],
+440,Yes,Second,"Herman, Mrs. Samuel (Jane Laver)",Female,220845,,Southampton,9,Adult (30-50],Luxury Fare (41.5-513],
+441,Yes,Second,"Hewlett, Mrs. (Mary D Kingcome) ",Female,248706,,Southampton,13,Middle Aged (50-65],Standard Fare (10.5-22],
+442,No,Second,"Hickman, Mr. Leonard Mark",Male,S.O.C. 14879,,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],
+443,No,Second,"Hickman, Mr. Lewis",Male,S.O.C. 14879,,Southampton,,Adult (30-50],Luxury Fare (41.5-513],
+444,No,Second,"Hickman, Mr. Stanley George",Male,S.O.C. 14879,,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],
+445,No,Second,"Hiltunen, Miss. Marta",Female,250650,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+446,Yes,Second,"Hocking, Miss. Ellen ""Nellie""",Female,29105,,Southampton,4,Young Adult (18-30],Premium Fare (22-41.5],
+447,No,Second,"Hocking, Mr. Richard George",Male,29104,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+448,No,Second,"Hocking, Mr. Samuel James Metcalfe",Male,242963,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+449,Yes,Second,"Hocking, Mrs. Elizabeth (Eliza Needs)",Female,29105,,Southampton,4,Middle Aged (50-65],Premium Fare (22-41.5],
+450,No,Second,"Hodges, Mr. Henry Price",Male,250643,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+451,No,Second,"Hold, Mr. Stephen",Male,26707,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+452,Yes,Second,"Hold, Mrs. Stephen (Annie Margaret Hill)",Female,26707,,Southampton,10,Young Adult (18-30],Premium Fare (22-41.5],
+453,No,Second,"Hood, Mr. Ambrose Jr",Male,S.O.C. 14879,,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],
+454,Yes,Second,"Hosono, Mr. Masabumi",Male,237798,,Southampton,10,Adult (30-50],Standard Fare (10.5-22],
+455,No,Second,"Howard, Mr. Benjamin",Male,24065,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+456,No,Second,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",Female,24065,,Southampton,,Middle Aged (50-65],Premium Fare (22-41.5],
+457,No,Second,"Hunt, Mr. George Henry",Male,SCO/W 1585,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+458,Yes,Second,"Ilett, Miss. Bertha",Female,SO/C 14885,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+459,No,Second,"Jacobsohn, Mr. Sidney Samuel",Male,243847,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+460,Yes,Second,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Female,243847,,Southampton,12,Young Adult (18-30],Premium Fare (22-41.5],
+461,No,Second,"Jarvis, Mr. John Denzil",Male,237565,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+462,No,Second,"Jefferys, Mr. Clifford Thomas",Male,C.A. 31029,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+463,No,Second,"Jefferys, Mr. Ernest Wilfred",Male,C.A. 31029,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+464,No,Second,"Jenkin, Mr. Stephen Curnow",Male,C.A. 33111,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+465,Yes,Second,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Female,SC/AH Basle 541,D,Cherbourg,11,Young Adult (18-30],Standard Fare (10.5-22],D
+466,No,Second,"Kantor, Mr. Sinai",Male,244367,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+467,Yes,Second,"Kantor, Mrs. Sinai (Miriam Sternin)",Female,244367,,Southampton,12,Young Adult (18-30],Premium Fare (22-41.5],
+468,No,Second,"Karnes, Mrs. J Frank (Claire Bennett)",Female,F.C.C. 13534,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+469,Yes,Second,"Keane, Miss. Nora A",Female,226593,E101,Queenstown,10,Missing,Standard Fare (10.5-22],E
+470,No,Second,"Keane, Mr. Daniel",Male,233734,,Queenstown,,Adult (30-50],Standard Fare (10.5-22],
+471,Yes,Second,"Kelly, Mrs. Florence ""Fannie""",Female,223596,,Southampton,9,Adult (30-50],Standard Fare (10.5-22],
+472,No,Second,"Kirkland, Rev. Charles Leonard",Male,219533,,Queenstown,,Middle Aged (50-65],Standard Fare (10.5-22],
+473,No,Second,"Knight, Mr. Robert J",Male,239855,,Southampton,,Missing,Lowest Fare (0-8],
+474,No,Second,"Kvillner, Mr. Johan Henrik Johannesson",Male,C.A. 18723,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+475,No,Second,"Lahtinen, Mrs. William (Anna Sylfven)",Female,250651,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+476,No,Second,"Lahtinen, Rev. William",Male,250651,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+477,No,Second,"Lamb, Mr. John Joseph",Male,240261,,Queenstown,,Missing,Standard Fare (10.5-22],
+478,Yes,Second,"Laroche, Miss. Louise",Female,SC/Paris 2123,,Cherbourg,14,Infant(0-1],Luxury Fare (41.5-513],
+479,Yes,Second,"Laroche, Miss. Simonne Marie Anne Andree",Female,SC/Paris 2123,,Cherbourg,14,Toddler (1-5],Luxury Fare (41.5-513],
+480,No,Second,"Laroche, Mr. Joseph Philippe Lemercier",Male,SC/Paris 2123,,Cherbourg,,Young Adult (18-30],Luxury Fare (41.5-513],
+481,Yes,Second,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Female,SC/Paris 2123,,Cherbourg,14,Young Adult (18-30],Luxury Fare (41.5-513],
+482,Yes,Second,"Lehmann, Miss. Bertha",Female,SC 1748,,Cherbourg,12,Teen(12-18],Standard Fare (10.5-22],
+483,Yes,Second,"Leitch, Miss. Jessie Wills",Female,248727,,Southampton,11,Missing,Premium Fare (22-41.5],
+484,Yes,Second,"Lemore, Mrs. (Amelia Milley)",Female,C.A. 34260,F33,Southampton,14,Adult (30-50],Budget Fare (8-10.5],F
+485,No,Second,"Levy, Mr. Rene Jacques",Male,SC/Paris 2163,D,Cherbourg,,Adult (30-50],Standard Fare (10.5-22],D
+486,No,Second,"Leyson, Mr. Robert William Norman",Male,C.A. 29566,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+487,No,Second,"Lingane, Mr. John",Male,235509,,Queenstown,,Middle Aged (50-65],Standard Fare (10.5-22],
+488,No,Second,"Louch, Mr. Charles Alexander",Male,SC/AH 3085,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+489,Yes,Second,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Female,SC/AH 3085,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+490,No,Second,"Mack, Mrs. (Mary)",Female,S.O./P.P. 3,E77,Southampton,,Middle Aged (50-65],Budget Fare (8-10.5],E
+491,No,Second,"Malachard, Mr. Noel",Male,237735,D,Cherbourg,,Missing,Standard Fare (10.5-22],D
+492,Yes,Second,"Mallet, Master. Andre",Male,S.C./PARIS 2079,,Cherbourg,10,Infant(0-1],Premium Fare (22-41.5],
+493,No,Second,"Mallet, Mr. Albert",Male,S.C./PARIS 2079,,Cherbourg,,Adult (30-50],Premium Fare (22-41.5],
+494,Yes,Second,"Mallet, Mrs. Albert (Antoinette Magnin)",Female,S.C./PARIS 2079,,Cherbourg,10,Young Adult (18-30],Premium Fare (22-41.5],
+495,No,Second,"Mangiavacchi, Mr. Serafino Emilio",Male,SC/A.3 2861,,Cherbourg,,Missing,Standard Fare (10.5-22],
+496,No,Second,"Matthews, Mr. William John",Male,28228,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+497,No,Second,"Maybery, Mr. Frank Hubert",Male,239059,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+498,No,Second,"McCrae, Mr. Arthur Gordon",Male,237216,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+499,No,Second,"McCrie, Mr. James Matthew",Male,233478,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+500,No,Second,"McKane, Mr. Peter David",Male,28403,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+501,Yes,Second,"Mellinger, Miss. Madeleine Violet",Female,250644,,Southampton,14,Teen(12-18],Standard Fare (10.5-22],
+502,Yes,Second,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Female,250644,,Southampton,14,Adult (30-50],Standard Fare (10.5-22],
+503,Yes,Second,"Mellors, Mr. William John",Male,SW/PP 751,,Southampton,B,Young Adult (18-30],Budget Fare (8-10.5],
+504,No,Second,"Meyer, Mr. August",Male,248723,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+505,No,Second,"Milling, Mr. Jacob Christian",Male,234360,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+506,No,Second,"Mitchell, Mr. Henry Michael",Male,C.A. 24580,,Southampton,,Senior (65-),Budget Fare (8-10.5],
+507,No,Second,"Montvila, Rev. Juozas",Male,211536,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+508,No,Second,"Moraweck, Dr. Ernest",Male,29011,,Southampton,,Middle Aged (50-65],Standard Fare (10.5-22],
+509,No,Second,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Male,250655,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+510,No,Second,"Mudd, Mr. Thomas Charles",Male,S.O./P.P. 3,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+511,No,Second,"Myles, Mr. Thomas Francis",Male,240276,,Queenstown,,Middle Aged (50-65],Budget Fare (8-10.5],
+512,No,Second,"Nasser, Mr. Nicholas",Male,237736,,Cherbourg,,Adult (30-50],Premium Fare (22-41.5],
+513,Yes,Second,"Nasser, Mrs. Nicholas (Adele Achem)",Female,237736,,Cherbourg,,Teen(12-18],Premium Fare (22-41.5],
+514,Yes,Second,"Navratil, Master. Edmond Roger",Male,230080,F2,Southampton,D,Toddler (1-5],Premium Fare (22-41.5],F
+515,Yes,Second,"Navratil, Master. Michel M",Male,230080,F2,Southampton,D,Toddler (1-5],Premium Fare (22-41.5],F
+516,No,Second,"Navratil, Mr. Michel (""Louis M Hoffman"")",Male,230080,F2,Southampton,,Adult (30-50],Premium Fare (22-41.5],F
+517,No,Second,"Nesson, Mr. Israel",Male,244368,F2,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],F
+518,No,Second,"Nicholls, Mr. Joseph Charles",Male,C.A. 33112,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+519,No,Second,"Norman, Mr. Robert Douglas",Male,218629,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+520,Yes,Second,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",Male,SC/PARIS 2166,D38,Cherbourg,7,Young Adult (18-30],Standard Fare (10.5-22],D
+521,Yes,Second,"Nye, Mrs. (Elizabeth Ramell)",Female,C.A. 29395,F33,Southampton,11,Young Adult (18-30],Budget Fare (8-10.5],F
+522,No,Second,"Otter, Mr. Richard",Male,28213,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+523,Yes,Second,"Oxenham, Mr. Percy Thomas",Male,W./C. 14260,,Southampton,13,Young Adult (18-30],Budget Fare (8-10.5],
+524,Yes,Second,"Padro y Manent, Mr. Julian",Male,SC/PARIS 2146,,Cherbourg,9,Missing,Standard Fare (10.5-22],
+525,No,Second,"Pain, Dr. Alfred",Male,244278,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+526,Yes,Second,"Pallas y Castello, Mr. Emilio",Male,SC/PARIS 2147,,Cherbourg,9,Young Adult (18-30],Standard Fare (10.5-22],
+527,No,Second,"Parker, Mr. Clifford Richard",Male,SC 14888,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+528,No,Second,"Parkes, Mr. Francis ""Frank""",Male,239853,,Southampton,,Missing,Lowest Fare (0-8],
+529,Yes,Second,"Parrish, Mrs. (Lutie Davis)",Female,230433,,Southampton,12,Adult (30-50],Premium Fare (22-41.5],
+530,No,Second,"Pengelly, Mr. Frederick William",Male,28665,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+531,No,Second,"Pernot, Mr. Rene",Male,SC/PARIS 2131,,Cherbourg,,Missing,Standard Fare (10.5-22],
+532,No,Second,"Peruschitz, Rev. Joseph Maria",Male,237393,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+533,Yes,Second,"Phillips, Miss. Alice Frances Louisa",Female,S.O./P.P. 2,,Southampton,12,Young Adult (18-30],Standard Fare (10.5-22],
+534,Yes,Second,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Female,250655,,Southampton,11,Young Adult (18-30],Premium Fare (22-41.5],
+535,No,Second,"Phillips, Mr. Escott Robert",Male,S.O./P.P. 2,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+536,Yes,Second,"Pinsky, Mrs. (Rosa)",Female,234604,,Southampton,9,Adult (30-50],Standard Fare (10.5-22],
+537,No,Second,"Ponesell, Mr. Martin",Male,250647,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+538,Yes,Second,"Portaluppi, Mr. Emilio Ilario Giuseppe",Male,C.A. 34644,,Cherbourg,14,Young Adult (18-30],Standard Fare (10.5-22],
+539,No,Second,"Pulbaum, Mr. Franz",Male,SC/PARIS 2168,,Cherbourg,,Young Adult (18-30],Standard Fare (10.5-22],
+540,Yes,Second,"Quick, Miss. Phyllis May",Female,26360,,Southampton,11,Toddler (1-5],Premium Fare (22-41.5],
+541,Yes,Second,"Quick, Miss. Winifred Vera",Female,26360,,Southampton,11,Child (5-12] ,Premium Fare (22-41.5],
+542,Yes,Second,"Quick, Mrs. Frederick Charles (Jane Richards)",Female,26360,,Southampton,11,Adult (30-50],Premium Fare (22-41.5],
+543,No,Second,"Reeves, Mr. David",Male,C.A. 17248,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+544,No,Second,"Renouf, Mr. Peter Henry",Male,31027,,Southampton,12,Adult (30-50],Standard Fare (10.5-22],
+545,Yes,Second,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Female,31027,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+546,Yes,Second,"Reynaldo, Ms. Encarnacion",Female,230434,,Southampton,9,Young Adult (18-30],Standard Fare (10.5-22],
+547,No,Second,"Richard, Mr. Emile",Male,SC/PARIS 2133,,Cherbourg,,Young Adult (18-30],Standard Fare (10.5-22],
+548,Yes,Second,"Richards, Master. George Sibley",Male,29106,,Southampton,4,Infant(0-1],Standard Fare (10.5-22],
+549,Yes,Second,"Richards, Master. William Rowe",Male,29106,,Southampton,4,Toddler (1-5],Standard Fare (10.5-22],
+550,Yes,Second,"Richards, Mrs. Sidney (Emily Hocking)",Female,29106,,Southampton,4,Young Adult (18-30],Standard Fare (10.5-22],
+551,Yes,Second,"Ridsdale, Miss. Lucy",Female,W./C. 14258,,Southampton,13,Adult (30-50],Budget Fare (8-10.5],
+552,No,Second,"Rogers, Mr. Reginald Harry",Male,28004,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+553,Yes,Second,"Rugg, Miss. Emily",Female,C.A. 31026,,Southampton,12,Young Adult (18-30],Budget Fare (8-10.5],
+554,No,Second,"Schmidt, Mr. August",Male,248659,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+555,No,Second,"Sedgwick, Mr. Charles Frederick Waddington",Male,244361,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+556,No,Second,"Sharp, Mr. Percival James R",Male,244358,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+557,Yes,Second,"Shelley, Mrs. William (Imanita Parrish Hall)",Female,230433,,Southampton,12,Young Adult (18-30],Premium Fare (22-41.5],
+558,Yes,Second,"Silven, Miss. Lyyli Karoliina",Female,250652,,Southampton,16,Teen(12-18],Standard Fare (10.5-22],
+559,Yes,Second,"Sincock, Miss. Maude",Female,C.A. 33112,,Southampton,11,Young Adult (18-30],Premium Fare (22-41.5],
+560,Yes,Second,"Sinkkonen, Miss. Anna",Female,250648,,Southampton,10,Young Adult (18-30],Standard Fare (10.5-22],
+561,No,Second,"Sjostedt, Mr. Ernst Adolf",Male,237442,,Southampton,,Middle Aged (50-65],Standard Fare (10.5-22],
+562,Yes,Second,"Slayter, Miss. Hilda Mary",Female,234818,,Queenstown,13,Young Adult (18-30],Standard Fare (10.5-22],
+563,No,Second,"Slemen, Mr. Richard James",Male,28206,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+564,Yes,Second,"Smith, Miss. Marion Elsie",Female,31418,,Southampton,9,Adult (30-50],Standard Fare (10.5-22],
+565,No,Second,"Sobey, Mr. Samuel James Hayden",Male,C.A. 29178,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+566,No,Second,"Stanton, Mr. Samuel Ward",Male,237734,,Cherbourg,,Adult (30-50],Standard Fare (10.5-22],
+567,No,Second,"Stokes, Mr. Philip Joseph",Male,F.C.C. 13540,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+568,No,Second,"Swane, Mr. George",Male,248734,F,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],F
+569,No,Second,"Sweet, Mr. George Frederick",Male,220845,,Southampton,,Teen(12-18],Luxury Fare (41.5-513],
+570,Yes,Second,"Toomey, Miss. Ellen",Female,F.C.C. 13531,,Southampton,9,Adult (30-50],Budget Fare (8-10.5],
+571,No,Second,"Troupiansky, Mr. Moses Aaron",Male,233639,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+572,Yes,Second,"Trout, Mrs. William H (Jessie L)",Female,240929,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+573,Yes,Second,"Troutt, Miss. Edwina Celia ""Winnie""",Female,34218,E101,Southampton,16,Young Adult (18-30],Budget Fare (8-10.5],E
+574,No,Second,"Turpin, Mr. William John Robert",Male,11668,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+575,No,Second,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Female,11668,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+576,No,Second,"Veal, Mr. James",Male,28221,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+577,Yes,Second,"Walcroft, Miss. Nellie",Female,F.C.C. 13528,,Southampton,14,Adult (30-50],Standard Fare (10.5-22],
+578,No,Second,"Ware, Mr. John James",Male,CA 31352,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+579,No,Second,"Ware, Mr. William Jeffery",Male,28666,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+580,Yes,Second,"Ware, Mrs. John James (Florence Louise Long)",Female,CA 31352,,Southampton,10,Adult (30-50],Standard Fare (10.5-22],
+581,No,Second,"Watson, Mr. Ennis Hastings",Male,239856,,Southampton,,Missing,Lowest Fare (0-8],
+582,Yes,Second,"Watt, Miss. Bertha J",Female,C.A. 33595,,Southampton,9,Child (5-12] ,Standard Fare (10.5-22],
+583,Yes,Second,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Female,C.A. 33595,,Southampton,9,Adult (30-50],Standard Fare (10.5-22],
+584,Yes,Second,"Webber, Miss. Susan",Female,27267,E101,Southampton,12,Adult (30-50],Standard Fare (10.5-22],E
+585,No,Second,"Weisz, Mr. Leopold",Male,228414,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+586,Yes,Second,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Female,228414,,Southampton,10,Young Adult (18-30],Premium Fare (22-41.5],
+587,Yes,Second,"Wells, Master. Ralph Lester",Male,29103,,Southampton,14,Toddler (1-5],Premium Fare (22-41.5],
+588,Yes,Second,"Wells, Miss. Joan",Female,29103,,Southampton,14,Toddler (1-5],Premium Fare (22-41.5],
+589,Yes,Second,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",Female,29103,,Southampton,14,Young Adult (18-30],Premium Fare (22-41.5],
+590,Yes,Second,"West, Miss. Barbara J",Female,C.A. 34651,,Southampton,10,Infant(0-1],Premium Fare (22-41.5],
+591,Yes,Second,"West, Miss. Constance Mirium",Female,C.A. 34651,,Southampton,10,Toddler (1-5],Premium Fare (22-41.5],
+592,No,Second,"West, Mr. Edwy Arthur",Male,C.A. 34651,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+593,Yes,Second,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Female,C.A. 34651,,Southampton,10,Adult (30-50],Premium Fare (22-41.5],
+594,No,Second,"Wheadon, Mr. Edward H",Male,C.A. 24579,,Southampton,,Senior (65-),Budget Fare (8-10.5],
+595,No,Second,"Wheeler, Mr. Edwin ""Frederick""",Male,SC/PARIS 2159,,Southampton,,Missing,Standard Fare (10.5-22],
+596,Yes,Second,"Wilhelms, Mr. Charles",Male,244270,,Southampton,9,Adult (30-50],Standard Fare (10.5-22],
+597,Yes,Second,"Williams, Mr. Charles Eugene",Male,244373,,Southampton,14,Missing,Standard Fare (10.5-22],
+598,Yes,Second,"Wright, Miss. Marion",Female,220844,,Southampton,9,Young Adult (18-30],Standard Fare (10.5-22],
+599,No,Second,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Female,248747,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+600,No,Third,"Abbing, Mr. Anthony",Male,C.A. 5547,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+601,No,Third,"Abbott, Master. Eugene Joseph",Male,C.A. 2673,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+602,No,Third,"Abbott, Mr. Rossmore Edward",Male,C.A. 2673,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+603,Yes,Third,"Abbott, Mrs. Stanton (Rosa Hunt)",Female,C.A. 2673,,Southampton,A,Adult (30-50],Standard Fare (10.5-22],
+604,Yes,Third,"Abelseth, Miss. Karen Marie",Female,348125,,Southampton,16,Teen(12-18],Lowest Fare (0-8],
+605,Yes,Third,"Abelseth, Mr. Olaus Jorgensen",Male,348122,F G63,Southampton,A,Young Adult (18-30],Lowest Fare (0-8],F
+606,Yes,Third,"Abrahamsson, Mr. Abraham August Johannes",Male,SOTON/O2 3101284,,Southampton,15,Young Adult (18-30],Lowest Fare (0-8],
+607,Yes,Third,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",Female,2657,,Cherbourg,C,Teen(12-18],Lowest Fare (0-8],
+608,No,Third,"Adahl, Mr. Mauritz Nils Martin",Male,C 7076,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+609,No,Third,"Adams, Mr. John",Male,341826,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+610,No,Third,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Female,7546,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+611,Yes,Third,"Aks, Master. Philip Frank",Male,392091,,Southampton,11,Infant(0-1],Budget Fare (8-10.5],
+612,Yes,Third,"Aks, Mrs. Sam (Leah Rosen)",Female,392091,,Southampton,13,Teen(12-18],Budget Fare (8-10.5],
+613,Yes,Third,"Albimona, Mr. Nassef Cassem",Male,2699,,Cherbourg,15,Young Adult (18-30],Standard Fare (10.5-22],
+614,No,Third,"Alexander, Mr. William",Male,3474,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+615,No,Third,"Alhomaki, Mr. Ilmari Rudolf",Male,SOTON/O2 3101287,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+616,No,Third,"Ali, Mr. Ahmed",Male,SOTON/O.Q. 3101311,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+617,No,Third,"Ali, Mr. William",Male,SOTON/O.Q. 3101312,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+618,No,Third,"Allen, Mr. William Henry",Male,373450,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+619,No,Third,"Allum, Mr. Owen George",Male,2223,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+620,No,Third,"Andersen, Mr. Albert Karvin",Male,C 4001,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+621,Yes,Third,"Andersen-Jensen, Miss. Carla Christine Nielsine",Female,350046,,Southampton,16,Young Adult (18-30],Lowest Fare (0-8],
+622,No,Third,"Andersson, Master. Sigvard Harald Elias",Male,347082,,Southampton,,Toddler (1-5],Premium Fare (22-41.5],
+623,No,Third,"Andersson, Miss. Ebba Iris Alfrida",Female,347082,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+624,No,Third,"Andersson, Miss. Ellis Anna Maria",Female,347082,,Southampton,,Toddler (1-5],Premium Fare (22-41.5],
+625,Yes,Third,"Andersson, Miss. Erna Alexandra",Female,3101281,,Southampton,D,Teen(12-18],Lowest Fare (0-8],
+626,No,Third,"Andersson, Miss. Ida Augusta Margareta",Female,347091,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+627,No,Third,"Andersson, Miss. Ingeborg Constanzia",Female,347082,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+628,No,Third,"Andersson, Miss. Sigrid Elisabeth",Female,347082,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+629,No,Third,"Andersson, Mr. Anders Johan",Male,347082,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+630,Yes,Third,"Andersson, Mr. August Edvard (""Wennerstrom"")",Male,350043,,Southampton,A,Young Adult (18-30],Lowest Fare (0-8],
+631,No,Third,"Andersson, Mr. Johan Samuel",Male,347075,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+632,No,Third,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Female,347082,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+633,No,Third,"Andreasson, Mr. Paul Edvin",Male,347466,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+634,No,Third,"Angheloff, Mr. Minko",Male,349202,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+635,No,Third,"Arnold-Franchi, Mr. Josef",Male,349237,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+636,No,Third,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Female,349237,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+637,No,Third,"Aronsson, Mr. Ernst Axel Algot",Male,349911,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+638,No,Third,"Asim, Mr. Adola",Male,SOTON/O.Q. 3101310,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+639,No,Third,"Asplund, Master. Carl Edgar",Male,347077,,Southampton,,Toddler (1-5],Premium Fare (22-41.5],
+640,No,Third,"Asplund, Master. Clarence Gustaf Hugo",Male,347077,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+641,Yes,Third,"Asplund, Master. Edvin Rojj Felix",Male,347077,,Southampton,15,Toddler (1-5],Premium Fare (22-41.5],
+642,No,Third,"Asplund, Master. Filip Oscar",Male,347077,,Southampton,,Teen(12-18],Premium Fare (22-41.5],
+643,Yes,Third,"Asplund, Miss. Lillian Gertrud",Female,347077,,Southampton,15,Toddler (1-5],Premium Fare (22-41.5],
+644,No,Third,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",Male,347077,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+645,Yes,Third,"Asplund, Mr. Johan Charles",Male,350054,,Southampton,13,Young Adult (18-30],Lowest Fare (0-8],
+646,Yes,Third,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Female,347077,,Southampton,15,Adult (30-50],Premium Fare (22-41.5],
+647,Yes,Third,"Assaf Khalil, Mrs. Mariana (""Miriam"")",Female,2696,,Cherbourg,C,Adult (30-50],Lowest Fare (0-8],
+648,No,Third,"Assaf, Mr. Gerios",Male,2692,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+649,No,Third,"Assam, Mr. Ali",Male,SOTON/O.Q. 3101309,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+650,No,Third,"Attalah, Miss. Malake",Female,2627,,Cherbourg,,Teen(12-18],Standard Fare (10.5-22],
+651,No,Third,"Attalah, Mr. Sleiman",Male,2694,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+652,No,Third,"Augustsson, Mr. Albert",Male,347468,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+653,Yes,Third,"Ayoub, Miss. Banoura",Female,2687,,Cherbourg,C,Teen(12-18],Lowest Fare (0-8],
+654,No,Third,"Baccos, Mr. Raffull",Male,2679,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+655,No,Third,"Backstrom, Mr. Karl Alfred",Male,3101278,,Southampton,D,Adult (30-50],Standard Fare (10.5-22],
+656,Yes,Third,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Female,3101278,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+657,Yes,Third,"Baclini, Miss. Eugenie",Female,2666,,Cherbourg,C,Infant(0-1],Standard Fare (10.5-22],
+658,Yes,Third,"Baclini, Miss. Helene Barbara",Female,2666,,Cherbourg,C,Infant(0-1],Standard Fare (10.5-22],
+659,Yes,Third,"Baclini, Miss. Marie Catherine",Female,2666,,Cherbourg,C,Toddler (1-5],Standard Fare (10.5-22],
+660,Yes,Third,"Baclini, Mrs. Solomon (Latifa Qurban)",Female,2666,,Cherbourg,C,Young Adult (18-30],Standard Fare (10.5-22],
+661,Yes,Third,"Badman, Miss. Emily Louisa",Female,A/4 31416,,Southampton,C,Teen(12-18],Budget Fare (8-10.5],
+662,No,Third,"Badt, Mr. Mohamed",Male,2623,,Cherbourg,,Adult (30-50],Lowest Fare (0-8],
+663,No,Third,"Balkic, Mr. Cerin",Male,349248,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+664,Yes,Third,"Barah, Mr. Hanna Assi",Male,2663,,Cherbourg,15,Young Adult (18-30],Lowest Fare (0-8],
+665,No,Third,"Barbara, Miss. Saiide",Female,2691,,Cherbourg,,Teen(12-18],Standard Fare (10.5-22],
+666,No,Third,"Barbara, Mrs. (Catherine David)",Female,2691,,Cherbourg,,Adult (30-50],Standard Fare (10.5-22],
+667,No,Third,"Barry, Miss. Julia",Female,330844,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+668,No,Third,"Barton, Mr. David John",Male,324669,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+669,No,Third,"Beavan, Mr. William Thomas",Male,323951,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+670,No,Third,"Bengtsson, Mr. John Viktor",Male,347068,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+671,No,Third,"Berglund, Mr. Karl Ivar Sven",Male,PP 4348,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+672,No,Third,"Betros, Master. Seman",Male,2622,,Cherbourg,,Missing,Lowest Fare (0-8],
+673,No,Third,"Betros, Mr. Tannous",Male,2648,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+674,Yes,Third,"Bing, Mr. Lee",Male,1601,,Southampton,C,Adult (30-50],Luxury Fare (41.5-513],
+675,No,Third,"Birkeland, Mr. Hans Martin Monsen",Male,312992,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+676,No,Third,"Bjorklund, Mr. Ernst Herbert",Male,347090,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+677,No,Third,"Bostandyeff, Mr. Guentcho",Male,349224,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+678,No,Third,"Boulos, Master. Akar",Male,2678,,Cherbourg,,Child (5-12] ,Standard Fare (10.5-22],
+679,No,Third,"Boulos, Miss. Nourelain",Female,2678,,Cherbourg,,Child (5-12] ,Standard Fare (10.5-22],
+680,No,Third,"Boulos, Mr. Hanna",Male,2664,,Cherbourg,,Missing,Lowest Fare (0-8],
+681,No,Third,"Boulos, Mrs. Joseph (Sultana)",Female,2678,,Cherbourg,,Missing,Standard Fare (10.5-22],
+682,No,Third,"Bourke, Miss. Mary",Female,364848,,Queenstown,,Missing,Lowest Fare (0-8],
+683,No,Third,"Bourke, Mr. John",Male,364849,,Queenstown,,Adult (30-50],Standard Fare (10.5-22],
+684,No,Third,"Bourke, Mrs. John (Catherine)",Female,364849,,Queenstown,,Adult (30-50],Standard Fare (10.5-22],
+685,No,Third,"Bowen, Mr. David John ""Dai""",Male,54636,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+686,Yes,Third,"Bradley, Miss. Bridget Delia",Female,334914,,Queenstown,13,Young Adult (18-30],Lowest Fare (0-8],
+687,No,Third,"Braf, Miss. Elin Ester Maria",Female,347471,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+688,No,Third,"Braund, Mr. Lewis Richard",Male,3460,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+689,No,Third,"Braund, Mr. Owen Harris",Male,A/5 21171,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+690,No,Third,"Brobeck, Mr. Karl Rudolf",Male,350045,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+691,No,Third,"Brocklebank, Mr. William Alfred",Male,364512,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+692,No,Third,"Buckley, Miss. Katherine",Female,329944,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+693,Yes,Third,"Buckley, Mr. Daniel",Male,330920,,Queenstown,13,Young Adult (18-30],Lowest Fare (0-8],
+694,No,Third,"Burke, Mr. Jeremiah",Male,365222,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+695,No,Third,"Burns, Miss. Mary Delia",Female,330963,,Queenstown,,Teen(12-18],Lowest Fare (0-8],
+696,No,Third,"Cacic, Miss. Manda",Female,315087,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+697,No,Third,"Cacic, Miss. Marija",Female,315084,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+698,No,Third,"Cacic, Mr. Jego Grga",Male,315091,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+699,No,Third,"Cacic, Mr. Luka",Male,315089,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+700,No,Third,"Calic, Mr. Jovo",Male,315093,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+701,No,Third,"Calic, Mr. Petar",Male,315086,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+702,No,Third,"Canavan, Miss. Mary",Female,364846,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+703,No,Third,"Canavan, Mr. Patrick",Male,364858,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+704,No,Third,"Cann, Mr. Ernest Charles",Male,A./5. 2152,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+705,No,Third,"Caram, Mr. Joseph",Male,2689,,Cherbourg,,Missing,Standard Fare (10.5-22],
+706,No,Third,"Caram, Mrs. Joseph (Maria Elias)",Female,2689,,Cherbourg,,Missing,Standard Fare (10.5-22],
+707,No,Third,"Carlsson, Mr. August Sigfrid",Male,350042,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+708,No,Third,"Carlsson, Mr. Carl Robert",Male,350409,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+709,Yes,Third,"Carr, Miss. Helen ""Ellen""",Female,367231,,Queenstown,16,Teen(12-18],Lowest Fare (0-8],
+710,No,Third,"Carr, Miss. Jeannie",Female,368364,,Queenstown,,Adult (30-50],Lowest Fare (0-8],
+711,No,Third,"Carver, Mr. Alfred John",Male,392095,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+712,No,Third,"Celotti, Mr. Francesco",Male,343275,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+713,No,Third,"Charters, Mr. David",Male,A/5. 13032,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+714,Yes,Third,"Chip, Mr. Chang",Male,1601,,Southampton,C,Adult (30-50],Luxury Fare (41.5-513],
+715,No,Third,"Christmann, Mr. Emil",Male,343276,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+716,No,Third,"Chronopoulos, Mr. Apostolos",Male,2680,,Cherbourg,,Young Adult (18-30],Standard Fare (10.5-22],
+717,No,Third,"Chronopoulos, Mr. Demetrios",Male,2680,,Cherbourg,,Teen(12-18],Standard Fare (10.5-22],
+718,No,Third,"Coelho, Mr. Domingos Fernandeo",Male,SOTON/O.Q. 3101307,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+719,Yes,Third,"Cohen, Mr. Gurshon ""Gus""",Male,A/5 3540,,Southampton,12,Teen(12-18],Budget Fare (8-10.5],
+720,No,Third,"Colbert, Mr. Patrick",Male,371109,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+721,No,Third,"Coleff, Mr. Peju",Male,349210,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+722,No,Third,"Coleff, Mr. Satio",Male,349209,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+723,No,Third,"Conlon, Mr. Thomas Henry",Male,21332,,Queenstown,,Adult (30-50],Lowest Fare (0-8],
+724,No,Third,"Connaghton, Mr. Michael",Male,335097,,Queenstown,,Adult (30-50],Lowest Fare (0-8],
+725,Yes,Third,"Connolly, Miss. Kate",Female,370373,,Queenstown,13,Young Adult (18-30],Lowest Fare (0-8],
+726,No,Third,"Connolly, Miss. Kate",Female,330972,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+727,No,Third,"Connors, Mr. Patrick",Male,370369,,Queenstown,,Senior (65-),Lowest Fare (0-8],
+728,No,Third,"Cook, Mr. Jacob",Male,A/5 3536,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+729,No,Third,"Cor, Mr. Bartol",Male,349230,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+730,No,Third,"Cor, Mr. Ivan",Male,349229,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+731,No,Third,"Cor, Mr. Liudevit",Male,349231,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+732,No,Third,"Corn, Mr. Harry",Male,SOTON/OQ 392090,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+733,Yes,Third,"Coutts, Master. Eden Leslie ""Neville""",Male,C.A. 37671,,Southampton,2,Child (5-12] ,Standard Fare (10.5-22],
+734,Yes,Third,"Coutts, Master. William Loch ""William""",Male,C.A. 37671,,Southampton,2,Toddler (1-5],Standard Fare (10.5-22],
+735,Yes,Third,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",Female,C.A. 37671,,Southampton,2,Adult (30-50],Standard Fare (10.5-22],
+736,No,Third,"Coxon, Mr. Daniel",Male,364500,,Southampton,,Middle Aged (50-65],Lowest Fare (0-8],
+737,No,Third,"Crease, Mr. Ernest James",Male,S.P. 3464,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+738,Yes,Third,"Cribb, Miss. Laura Alice",Female,371362,,Southampton,12,Teen(12-18],Standard Fare (10.5-22],
+739,No,Third,"Cribb, Mr. John Hatfield",Male,371362,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+740,No,Third,"Culumovic, Mr. Jeso",Male,315090,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+741,No,Third,"Daher, Mr. Shedid",Male,2698,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+742,Yes,Third,"Dahl, Mr. Karl Edwart",Male,7598,,Southampton,15,Adult (30-50],Budget Fare (8-10.5],
+743,No,Third,"Dahlberg, Miss. Gerda Ulrika",Female,7552,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+744,No,Third,"Dakic, Mr. Branko",Male,349228,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+745,Yes,Third,"Daly, Miss. Margaret Marcella ""Maggie""",Female,382650,,Queenstown,15,Young Adult (18-30],Lowest Fare (0-8],
+746,Yes,Third,"Daly, Mr. Eugene Patrick",Male,382651,,Queenstown,13 15 B,Young Adult (18-30],Lowest Fare (0-8],
+747,No,Third,"Danbom, Master. Gilbert Sigvard Emanuel",Male,347080,,Southampton,,Infant(0-1],Standard Fare (10.5-22],
+748,No,Third,"Danbom, Mr. Ernst Gilbert",Male,347080,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+749,No,Third,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Female,347080,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+750,No,Third,"Danoff, Mr. Yoto",Male,349219,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+751,No,Third,"Dantcheff, Mr. Ristiu",Male,349203,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+752,No,Third,"Davies, Mr. Alfred J",Male,A/4 48871,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+753,No,Third,"Davies, Mr. Evan",Male,SC/A4 23568,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+754,No,Third,"Davies, Mr. John Samuel",Male,A/4 48871,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+755,No,Third,"Davies, Mr. Joseph",Male,A/4 48873,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+756,No,Third,"Davison, Mr. Thomas Henry",Male,386525,,Southampton,,Missing,Standard Fare (10.5-22],
+757,Yes,Third,"Davison, Mrs. Thomas Henry (Mary E Finck)",Female,386525,,Southampton,16,Missing,Standard Fare (10.5-22],
+758,Yes,Third,"de Messemaeker, Mr. Guillaume Joseph",Male,345572,,Southampton,15,Adult (30-50],Standard Fare (10.5-22],
+759,Yes,Third,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Female,345572,,Southampton,13,Adult (30-50],Standard Fare (10.5-22],
+760,Yes,Third,"de Mulder, Mr. Theodore",Male,345774,,Southampton,11,Young Adult (18-30],Budget Fare (8-10.5],
+761,No,Third,"de Pelsmaeker, Mr. Alfons",Male,345778,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+762,Yes,Third,"Dean, Master. Bertram Vere",Male,C.A. 2315,,Southampton,10,Infant(0-1],Standard Fare (10.5-22],
+763,Yes,Third,"Dean, Miss. Elizabeth Gladys ""Millvina""",Female,C.A. 2315,,Southampton,10,Infant(0-1],Standard Fare (10.5-22],
+764,No,Third,"Dean, Mr. Bertram Frank",Male,C.A. 2315,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+765,Yes,Third,"Dean, Mrs. Bertram (Eva Georgetta Light)",Female,C.A. 2315,,Southampton,10,Adult (30-50],Standard Fare (10.5-22],
+766,No,Third,"Delalic, Mr. Redjo",Male,349250,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+767,No,Third,"Demetri, Mr. Marinko",Male,349238,,Southampton,,Missing,Lowest Fare (0-8],
+768,No,Third,"Denkoff, Mr. Mitto",Male,349225,,Southampton,,Missing,Lowest Fare (0-8],
+769,No,Third,"Dennis, Mr. Samuel",Male,A/5 21172,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+770,No,Third,"Dennis, Mr. William",Male,A/5 21175,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+771,Yes,Third,"Devaney, Miss. Margaret Delia",Female,330958,,Queenstown,C,Young Adult (18-30],Lowest Fare (0-8],
+772,No,Third,"Dika, Mr. Mirko",Male,349232,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+773,No,Third,"Dimic, Mr. Jovan",Male,315088,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+774,No,Third,"Dintcheff, Mr. Valtcho",Male,349226,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+775,No,Third,"Doharr, Mr. Tannous",Male,2686,,Cherbourg,,Missing,Lowest Fare (0-8],
+776,No,Third,"Dooley, Mr. Patrick",Male,370376,,Queenstown,,Adult (30-50],Lowest Fare (0-8],
+777,Yes,Third,"Dorking, Mr. Edward Arthur",Male,A/5. 10482,,Southampton,B,Young Adult (18-30],Budget Fare (8-10.5],
+778,Yes,Third,"Dowdell, Miss. Elizabeth",Female,364516,,Southampton,13,Young Adult (18-30],Standard Fare (10.5-22],
+779,No,Third,"Doyle, Miss. Elizabeth",Female,368702,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+780,Yes,Third,"Drapkin, Miss. Jennie",Female,SOTON/OQ 392083,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+781,No,Third,"Drazenoic, Mr. Jozef",Male,349241,,Cherbourg,,Adult (30-50],Lowest Fare (0-8],
+782,No,Third,"Duane, Mr. Frank",Male,336439,,Queenstown,,Middle Aged (50-65],Lowest Fare (0-8],
+783,Yes,Third,"Duquemin, Mr. Joseph",Male,S.O./P.P. 752,,Southampton,D,Young Adult (18-30],Lowest Fare (0-8],
+784,No,Third,"Dyker, Mr. Adolf Fredrik",Male,347072,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+785,Yes,Third,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",Female,347072,,Southampton,16,Young Adult (18-30],Standard Fare (10.5-22],
+786,No,Third,"Edvardsson, Mr. Gustaf Hjalmar",Male,349912,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+787,No,Third,"Eklund, Mr. Hans Linus",Male,347074,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+788,No,Third,"Ekstrom, Mr. Johan",Male,347061,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+789,No,Third,"Elias, Mr. Dibo",Male,2674,,Cherbourg,,Missing,Lowest Fare (0-8],
+790,No,Third,"Elias, Mr. Joseph",Male,2675,,Cherbourg,,Adult (30-50],Lowest Fare (0-8],
+791,No,Third,"Elias, Mr. Joseph Jr",Male,2690,,Cherbourg,,Teen(12-18],Lowest Fare (0-8],
+792,No,Third,"Elias, Mr. Tannous",Male,2695,,Cherbourg,,Teen(12-18],Lowest Fare (0-8],
+793,No,Third,"Elsbury, Mr. William James",Male,A/5 3902,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+794,Yes,Third,"Emanuel, Miss. Virginia Ethel",Female,364516,,Southampton,13,Toddler (1-5],Standard Fare (10.5-22],
+795,No,Third,"Emir, Mr. Farred Chehab",Male,2631,,Cherbourg,,Missing,Lowest Fare (0-8],
+796,No,Third,"Everett, Mr. Thomas James",Male,C.A. 6212,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+797,No,Third,"Farrell, Mr. James",Male,367232,,Queenstown,,Adult (30-50],Lowest Fare (0-8],
+798,Yes,Third,"Finoli, Mr. Luigi",Male,SOTON/O.Q. 3101308,,Southampton,15,Missing,Lowest Fare (0-8],
+799,No,Third,"Fischer, Mr. Eberhard Thelander",Male,350036,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+800,No,Third,"Fleming, Miss. Honora",Female,364859,,Queenstown,,Missing,Lowest Fare (0-8],
+801,No,Third,"Flynn, Mr. James",Male,364851,,Queenstown,,Missing,Lowest Fare (0-8],
+802,No,Third,"Flynn, Mr. John",Male,368323,,Queenstown,,Missing,Lowest Fare (0-8],
+803,No,Third,"Foley, Mr. Joseph",Male,330910,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+804,No,Third,"Foley, Mr. William",Male,365235,,Queenstown,,Missing,Lowest Fare (0-8],
+805,Yes,Third,"Foo, Mr. Choong",Male,1601,,Southampton,13,Missing,Luxury Fare (41.5-513],
+806,No,Third,"Ford, Miss. Doolina Margaret ""Daisy""",Female,W./C. 6608,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+807,No,Third,"Ford, Miss. Robina Maggie ""Ruby""",Female,W./C. 6608,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+808,No,Third,"Ford, Mr. Arthur",Male,A/5 1478,,Southampton,,Missing,Budget Fare (8-10.5],
+809,No,Third,"Ford, Mr. Edward Watson",Male,W./C. 6608,,Southampton,,Teen(12-18],Premium Fare (22-41.5],
+810,No,Third,"Ford, Mr. William Neal",Male,W./C. 6608,,Southampton,,Teen(12-18],Premium Fare (22-41.5],
+811,No,Third,"Ford, Mrs. Edward (Margaret Ann Watson)",Female,W./C. 6608,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+812,No,Third,"Fox, Mr. Patrick",Male,368573,,Queenstown,,Missing,Lowest Fare (0-8],
+813,No,Third,"Franklin, Mr. Charles (Charles Fardon)",Male,SOTON/O.Q. 3101314,,Southampton,,Missing,Lowest Fare (0-8],
+814,No,Third,"Gallagher, Mr. Martin",Male,36864,,Queenstown,,Young Adult (18-30],Lowest Fare (0-8],
+815,No,Third,"Garfirth, Mr. John",Male,358585,,Southampton,,Missing,Standard Fare (10.5-22],
+816,No,Third,"Gheorgheff, Mr. Stanio",Male,349254,,Cherbourg,,Missing,Lowest Fare (0-8],
+817,No,Third,"Gilinski, Mr. Eliezer",Male,14973,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+818,Yes,Third,"Gilnagh, Miss. Katherine ""Katie""",Female,35851,,Queenstown,16,Teen(12-18],Lowest Fare (0-8],
+819,Yes,Third,"Glynn, Miss. Mary Agatha",Female,335677,,Queenstown,13,Missing,Lowest Fare (0-8],
+820,Yes,Third,"Goldsmith, Master. Frank John William ""Frankie""",Male,363291,,Southampton,C D,Child (5-12] ,Standard Fare (10.5-22],
+821,No,Third,"Goldsmith, Mr. Frank John",Male,363291,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+822,No,Third,"Goldsmith, Mr. Nathan",Male,SOTON/O.Q. 3101263,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+823,Yes,Third,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Female,363291,,Southampton,C D,Adult (30-50],Standard Fare (10.5-22],
+824,No,Third,"Goncalves, Mr. Manuel Estanslas",Male,SOTON/O.Q. 3101306,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+825,No,Third,"Goodwin, Master. Harold Victor",Male,CA 2144,,Southampton,,Child (5-12] ,Luxury Fare (41.5-513],
+826,No,Third,"Goodwin, Master. Sidney Leonard",Male,CA 2144,,Southampton,,Infant(0-1],Luxury Fare (41.5-513],
+827,No,Third,"Goodwin, Master. William Frederick",Male,CA 2144,,Southampton,,Child (5-12] ,Luxury Fare (41.5-513],
+828,No,Third,"Goodwin, Miss. Jessie Allis",Female,CA 2144,,Southampton,,Child (5-12] ,Luxury Fare (41.5-513],
+829,No,Third,"Goodwin, Miss. Lillian Amy",Female,CA 2144,,Southampton,,Teen(12-18],Luxury Fare (41.5-513],
+830,No,Third,"Goodwin, Mr. Charles Edward",Male,CA 2144,,Southampton,,Teen(12-18],Luxury Fare (41.5-513],
+831,No,Third,"Goodwin, Mr. Charles Frederick",Male,CA 2144,,Southampton,,Adult (30-50],Luxury Fare (41.5-513],
+832,No,Third,"Goodwin, Mrs. Frederick (Augusta Tyler)",Female,CA 2144,,Southampton,,Adult (30-50],Luxury Fare (41.5-513],
+833,No,Third,"Green, Mr. George Henry",Male,21440,,Southampton,,Middle Aged (50-65],Budget Fare (8-10.5],
+834,No,Third,"Gronnestad, Mr. Daniel Danielsen",Male,8471,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+835,No,Third,"Guest, Mr. Robert",Male,376563,,Southampton,,Missing,Budget Fare (8-10.5],
+836,No,Third,"Gustafsson, Mr. Alfred Ossian",Male,7534,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+837,No,Third,"Gustafsson, Mr. Anders Vilhelm",Male,3101276,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+838,No,Third,"Gustafsson, Mr. Johan Birger",Male,3101277,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+839,No,Third,"Gustafsson, Mr. Karl Gideon",Male,347069,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+840,No,Third,"Haas, Miss. Aloisia",Female,349236,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+841,No,Third,"Hagardon, Miss. Kate",Female,AQ/3. 30631,,Queenstown,,Teen(12-18],Lowest Fare (0-8],
+842,No,Third,"Hagland, Mr. Ingvald Olai Olsen",Male,65303,,Southampton,,Missing,Standard Fare (10.5-22],
+843,No,Third,"Hagland, Mr. Konrad Mathias Reiersen",Male,65304,,Southampton,,Missing,Standard Fare (10.5-22],
+844,No,Third,"Hakkarainen, Mr. Pekka Pietari",Male,STON/O2. 3101279,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+845,Yes,Third,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Female,STON/O2. 3101279,,Southampton,15,Young Adult (18-30],Standard Fare (10.5-22],
+846,No,Third,"Hampe, Mr. Leon",Male,345769,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+847,No,Third,"Hanna, Mr. Mansour",Male,2693,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+848,No,Third,"Hansen, Mr. Claus Peter",Male,350026,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+849,No,Third,"Hansen, Mr. Henrik Juul",Male,350025,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+850,No,Third,"Hansen, Mr. Henry Damsgaard",Male,350029,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+851,Yes,Third,"Hansen, Mrs. Claus Peter (Jennie L Howard)",Female,350026,,Southampton,11,Adult (30-50],Standard Fare (10.5-22],
+852,No,Third,"Harknett, Miss. Alice Phoebe",Female,W./C. 6609,,Southampton,,Missing,Lowest Fare (0-8],
+853,No,Third,"Harmer, Mr. Abraham (David Lishin)",Male,374887,,Southampton,B,Young Adult (18-30],Lowest Fare (0-8],
+854,No,Third,"Hart, Mr. Henry",Male,394140,,Queenstown,,Missing,Lowest Fare (0-8],
+855,No,Third,"Hassan, Mr. Houssein G N",Male,2699,,Cherbourg,,Child (5-12] ,Standard Fare (10.5-22],
+856,Yes,Third,"Healy, Miss. Hanora ""Nora""",Female,370375,,Queenstown,16,Missing,Lowest Fare (0-8],
+857,Yes,Third,"Hedman, Mr. Oskar Arvid",Male,347089,,Southampton,15,Young Adult (18-30],Lowest Fare (0-8],
+858,Yes,Third,"Hee, Mr. Ling",Male,1601,,Southampton,C,Missing,Luxury Fare (41.5-513],
+859,No,Third,"Hegarty, Miss. Hanora ""Nora""",Female,365226,,Queenstown,,Teen(12-18],Lowest Fare (0-8],
+860,Yes,Third,"Heikkinen, Miss. Laina",Female,STON/O2. 3101282,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+861,No,Third,"Heininen, Miss. Wendla Maria",Female,STON/O2. 3101290,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+862,Yes,Third,"Hellstrom, Miss. Hilda Maria",Female,7548,,Southampton,C,Young Adult (18-30],Budget Fare (8-10.5],
+863,No,Third,"Hendekovic, Mr. Ignjac",Male,349243,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+864,No,Third,"Henriksson, Miss. Jenny Lovisa",Female,347086,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+865,No,Third,"Henry, Miss. Delia",Female,382649,,Queenstown,,Missing,Lowest Fare (0-8],
+866,Yes,Third,"Hirvonen, Miss. Hildur E",Female,3101298,,Southampton,15,Toddler (1-5],Standard Fare (10.5-22],
+867,Yes,Third,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",Female,3101298,,Southampton,15,Young Adult (18-30],Standard Fare (10.5-22],
+868,No,Third,"Holm, Mr. John Fredrik Alexander",Male,C 7075,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+869,No,Third,"Holthen, Mr. Johan Martin",Male,C 4001,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+870,Yes,Third,"Honkanen, Miss. Eliina",Female,STON/O2. 3101283,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+871,No,Third,"Horgan, Mr. John",Male,370377,,Queenstown,,Missing,Lowest Fare (0-8],
+872,Yes,Third,"Howard, Miss. May Elizabeth",Female,A. 2. 39186,,Southampton,C,Missing,Budget Fare (8-10.5],
+873,No,Third,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Male,348121,F G63,Southampton,,Adult (30-50],Lowest Fare (0-8],F
+874,Yes,Third,"Hyman, Mr. Abraham",Male,3470,,Southampton,C,Missing,Lowest Fare (0-8],
+875,No,Third,"Ibrahim Shawah, Mr. Yousseff",Male,2685,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+876,No,Third,"Ilieff, Mr. Ylio",Male,349220,,Southampton,,Missing,Lowest Fare (0-8],
+877,No,Third,"Ilmakangas, Miss. Ida Livija",Female,STON/O2. 3101270,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+878,No,Third,"Ilmakangas, Miss. Pieta Sofia",Female,STON/O2. 3101271,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+879,No,Third,"Ivanoff, Mr. Kanio",Male,349201,,Southampton,,Missing,Lowest Fare (0-8],
+880,Yes,Third,"Jalsevac, Mr. Ivan",Male,349240,,Cherbourg,15,Young Adult (18-30],Lowest Fare (0-8],
+881,Yes,Third,"Jansson, Mr. Carl Olof",Male,350034,,Southampton,A,Young Adult (18-30],Lowest Fare (0-8],
+882,No,Third,"Jardin, Mr. Jose Neto",Male,SOTON/O.Q. 3101305,,Southampton,,Missing,Lowest Fare (0-8],
+883,No,Third,"Jensen, Mr. Hans Peder",Male,350050,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+884,No,Third,"Jensen, Mr. Niels Peder",Male,350047,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+885,No,Third,"Jensen, Mr. Svend Lauritz",Male,350048,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+886,Yes,Third,"Jermyn, Miss. Annie",Female,14313,,Queenstown,D,Missing,Lowest Fare (0-8],
+887,Yes,Third,"Johannesen-Bratthammer, Mr. Bernt",Male,65306,,Southampton,13,Missing,Budget Fare (8-10.5],
+888,No,Third,"Johanson, Mr. Jakob Alfred",Male,3101264,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+889,Yes,Third,"Johansson Palmquist, Mr. Oskar Leander",Male,347070,,Southampton,15,Young Adult (18-30],Lowest Fare (0-8],
+890,No,Third,"Johansson, Mr. Erik",Male,350052,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+891,No,Third,"Johansson, Mr. Gustaf Joel",Male,7540,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+892,No,Third,"Johansson, Mr. Karl Johan",Male,347063,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+893,No,Third,"Johansson, Mr. Nils",Male,347467,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+894,Yes,Third,"Johnson, Master. Harold Theodor",Male,347742,,Southampton,15,Toddler (1-5],Standard Fare (10.5-22],
+895,Yes,Third,"Johnson, Miss. Eleanor Ileen",Female,347742,,Southampton,15,Infant(0-1],Standard Fare (10.5-22],
+896,No,Third,"Johnson, Mr. Alfred",Male,LINE,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+897,No,Third,"Johnson, Mr. Malkolm Joackim",Male,347062,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+898,No,Third,"Johnson, Mr. William Cahoone Jr",Male,LINE,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+899,Yes,Third,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Female,347742,,Southampton,15,Young Adult (18-30],Standard Fare (10.5-22],
+900,No,Third,"Johnston, Master. William Arthur ""Willie""",Male,W./C. 6607,,Southampton,,Missing,Premium Fare (22-41.5],
+901,No,Third,"Johnston, Miss. Catherine Helen ""Carrie""",Female,W./C. 6607,,Southampton,,Missing,Premium Fare (22-41.5],
+902,No,Third,"Johnston, Mr. Andrew G",Male,W./C. 6607,,Southampton,,Missing,Premium Fare (22-41.5],
+903,No,Third,"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",Female,W./C. 6607,,Southampton,,Missing,Premium Fare (22-41.5],
+904,No,Third,"Jonkoff, Mr. Lalio",Male,349204,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+905,Yes,Third,"Jonsson, Mr. Carl",Male,350417,,Southampton,15,Adult (30-50],Lowest Fare (0-8],
+906,No,Third,"Jonsson, Mr. Nils Hilding",Male,350408,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+907,No,Third,"Jussila, Miss. Katriina",Female,4136,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+908,No,Third,"Jussila, Miss. Mari Aina",Female,4137,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+909,Yes,Third,"Jussila, Mr. Eiriik",Male,STON/O 2. 3101286,,Southampton,15,Adult (30-50],Lowest Fare (0-8],
+910,No,Third,"Kallio, Mr. Nikolai Erland",Male,STON/O 2. 3101274,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+911,No,Third,"Kalvik, Mr. Johannes Halvorsen",Male,8475,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+912,No,Third,"Karaic, Mr. Milan",Male,349246,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+913,Yes,Third,"Karlsson, Mr. Einar Gervasius",Male,350053,,Southampton,13,Young Adult (18-30],Lowest Fare (0-8],
+914,No,Third,"Karlsson, Mr. Julius Konrad Eugen",Male,347465,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+915,No,Third,"Karlsson, Mr. Nils August",Male,350060,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+916,Yes,Third,"Karun, Miss. Manca",Female,349256,,Cherbourg,15,Toddler (1-5],Standard Fare (10.5-22],
+917,Yes,Third,"Karun, Mr. Franz",Male,349256,,Cherbourg,15,Adult (30-50],Standard Fare (10.5-22],
+918,No,Third,"Kassem, Mr. Fared",Male,2700,,Cherbourg,,Missing,Lowest Fare (0-8],
+919,No,Third,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",Male,2682,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+920,No,Third,"Keane, Mr. Andrew ""Andy""",Male,12460,,Queenstown,,Missing,Lowest Fare (0-8],
+921,No,Third,"Keefe, Mr. Arthur",Male,323592,,Southampton,A,Missing,Lowest Fare (0-8],
+922,Yes,Third,"Kelly, Miss. Anna Katherine ""Annie Kate""",Female,9234,,Queenstown,16,Missing,Lowest Fare (0-8],
+923,Yes,Third,"Kelly, Miss. Mary",Female,14312,,Queenstown,D,Missing,Lowest Fare (0-8],
+924,No,Third,"Kelly, Mr. James",Male,330911,,Queenstown,,Adult (30-50],Lowest Fare (0-8],
+925,No,Third,"Kelly, Mr. James",Male,363592,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+926,Yes,Third,"Kennedy, Mr. John",Male,368783,,Queenstown,,Missing,Lowest Fare (0-8],
+927,No,Third,"Khalil, Mr. Betros",Male,2660,,Cherbourg,,Missing,Standard Fare (10.5-22],
+928,No,Third,"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",Female,2660,,Cherbourg,,Missing,Standard Fare (10.5-22],
+929,No,Third,"Kiernan, Mr. John",Male,367227,,Queenstown,,Missing,Lowest Fare (0-8],
+930,No,Third,"Kiernan, Mr. Philip",Male,367229,,Queenstown,,Missing,Lowest Fare (0-8],
+931,No,Third,"Kilgannon, Mr. Thomas J",Male,36865,,Queenstown,,Missing,Lowest Fare (0-8],
+932,No,Third,"Kink, Miss. Maria",Female,315152,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+933,No,Third,"Kink, Mr. Vincenz",Male,315151,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+934,Yes,Third,"Kink-Heilmann, Miss. Luise Gretchen",Female,315153,,Southampton,2,Toddler (1-5],Premium Fare (22-41.5],
+935,Yes,Third,"Kink-Heilmann, Mr. Anton",Male,315153,,Southampton,2,Young Adult (18-30],Premium Fare (22-41.5],
+936,Yes,Third,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",Female,315153,,Southampton,2,Young Adult (18-30],Premium Fare (22-41.5],
+937,No,Third,"Klasen, Miss. Gertrud Emilia",Female,350405,,Southampton,,Infant(0-1],Standard Fare (10.5-22],
+938,No,Third,"Klasen, Mr. Klas Albin",Male,350404,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+939,No,Third,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",Female,350405,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+940,No,Third,"Kraeff, Mr. Theodor",Male,349253,,Cherbourg,,Missing,Lowest Fare (0-8],
+941,Yes,Third,"Krekorian, Mr. Neshan",Male,2654,F E57,Cherbourg,10,Young Adult (18-30],Lowest Fare (0-8],F
+942,No,Third,"Lahoud, Mr. Sarkis",Male,2624,,Cherbourg,,Missing,Lowest Fare (0-8],
+943,No,Third,"Laitinen, Miss. Kristina Sofia",Female,4135,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+944,No,Third,"Laleff, Mr. Kristo",Male,349217,,Southampton,,Missing,Lowest Fare (0-8],
+945,Yes,Third,"Lam, Mr. Ali",Male,1601,,Southampton,C,Missing,Luxury Fare (41.5-513],
+946,No,Third,"Lam, Mr. Len",Male,1601,,Southampton,,Missing,Luxury Fare (41.5-513],
+947,Yes,Third,"Landergren, Miss. Aurora Adelia",Female,C 7077,,Southampton,13,Young Adult (18-30],Lowest Fare (0-8],
+948,No,Third,"Lane, Mr. Patrick",Male,7935,,Queenstown,,Missing,Lowest Fare (0-8],
+949,Yes,Third,"Lang, Mr. Fang",Male,1601,,Southampton,14,Young Adult (18-30],Luxury Fare (41.5-513],
+950,No,Third,"Larsson, Mr. August Viktor",Male,7545,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+951,No,Third,"Larsson, Mr. Bengt Edvin",Male,347067,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+952,No,Third,"Larsson-Rondberg, Mr. Edvard A",Male,347065,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+953,Yes,Third,"Leeni, Mr. Fahim (""Philip Zenni"")",Male,2620,,Cherbourg,6,Young Adult (18-30],Lowest Fare (0-8],
+954,No,Third,"Lefebre, Master. Henry Forbes",Male,4133,,Southampton,,Missing,Premium Fare (22-41.5],
+955,No,Third,"Lefebre, Miss. Ida",Female,4133,,Southampton,,Missing,Premium Fare (22-41.5],
+956,No,Third,"Lefebre, Miss. Jeannie",Female,4133,,Southampton,,Missing,Premium Fare (22-41.5],
+957,No,Third,"Lefebre, Miss. Mathilde",Female,4133,,Southampton,,Missing,Premium Fare (22-41.5],
+958,No,Third,"Lefebre, Mrs. Frank (Frances)",Female,4133,,Southampton,,Missing,Premium Fare (22-41.5],
+959,No,Third,"Leinonen, Mr. Antti Gustaf",Male,STON/O 2. 3101292,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+960,No,Third,"Lemberopolous, Mr. Peter L",Male,2683,,Cherbourg,,Adult (30-50],Lowest Fare (0-8],
+961,No,Third,"Lennon, Miss. Mary",Female,370371,,Queenstown,,Missing,Standard Fare (10.5-22],
+962,No,Third,"Lennon, Mr. Denis",Male,370371,,Queenstown,,Missing,Standard Fare (10.5-22],
+963,No,Third,"Leonard, Mr. Lionel",Male,LINE,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+964,No,Third,"Lester, Mr. James",Male,A/4 48871,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+965,No,Third,"Lievens, Mr. Rene Aime",Male,345781,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+966,No,Third,"Lindahl, Miss. Agda Thorilda Viktoria",Female,347071,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+967,No,Third,"Lindblom, Miss. Augusta Charlotta",Female,347073,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+968,No,Third,"Lindell, Mr. Edvard Bengtsson",Male,349910,,Southampton,A,Adult (30-50],Standard Fare (10.5-22],
+969,No,Third,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",Female,349910,,Southampton,A,Young Adult (18-30],Standard Fare (10.5-22],
+970,Yes,Third,"Lindqvist, Mr. Eino William",Male,STON/O 2. 3101285,,Southampton,15,Young Adult (18-30],Lowest Fare (0-8],
+971,No,Third,"Linehan, Mr. Michael",Male,330971,,Queenstown,,Missing,Lowest Fare (0-8],
+972,No,Third,"Ling, Mr. Lee",Male,1601,,Southampton,,Young Adult (18-30],Luxury Fare (41.5-513],
+973,No,Third,"Lithman, Mr. Simon",Male,S.O./P.P. 251,,Southampton,,Missing,Lowest Fare (0-8],
+974,No,Third,"Lobb, Mr. William Arthur",Male,A/5. 3336,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+975,No,Third,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Female,A/5. 3336,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+976,No,Third,"Lockyer, Mr. Edward",Male,1222,,Southampton,,Missing,Lowest Fare (0-8],
+977,No,Third,"Lovell, Mr. John Hall (""Henry"")",Male,A/5 21173,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+978,Yes,Third,"Lulic, Mr. Nikola",Male,315098,,Southampton,15,Young Adult (18-30],Budget Fare (8-10.5],
+979,No,Third,"Lundahl, Mr. Johan Svensson",Male,347743,,Southampton,,Middle Aged (50-65],Lowest Fare (0-8],
+980,Yes,Third,"Lundin, Miss. Olga Elida",Female,347469,,Southampton,10,Young Adult (18-30],Lowest Fare (0-8],
+981,Yes,Third,"Lundstrom, Mr. Thure Edvin",Male,350403,,Southampton,15,Adult (30-50],Lowest Fare (0-8],
+982,No,Third,"Lyntakoff, Mr. Stanko",Male,349235,,Southampton,,Missing,Lowest Fare (0-8],
+983,No,Third,"MacKay, Mr. George William",Male,C.A. 42795,,Southampton,,Missing,Lowest Fare (0-8],
+984,Yes,Third,"Madigan, Miss. Margaret ""Maggie""",Female,370370,,Queenstown,15,Missing,Lowest Fare (0-8],
+985,Yes,Third,"Madsen, Mr. Fridtjof Arne",Male,C 17369,,Southampton,13,Young Adult (18-30],Lowest Fare (0-8],
+986,No,Third,"Maenpaa, Mr. Matti Alexanteri",Male,STON/O 2. 3101275,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+987,No,Third,"Mahon, Miss. Bridget Delia",Female,330924,,Queenstown,,Missing,Lowest Fare (0-8],
+988,No,Third,"Mahon, Mr. John",Male,AQ/4 3130,,Queenstown,,Missing,Lowest Fare (0-8],
+989,No,Third,"Maisner, Mr. Simon",Male,A/S 2816,,Southampton,,Missing,Budget Fare (8-10.5],
+990,No,Third,"Makinen, Mr. Kalle Edvard",Male,STON/O 2. 3101268,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+991,Yes,Third,"Mamee, Mr. Hanna",Male,2677,,Cherbourg,15,Missing,Lowest Fare (0-8],
+992,No,Third,"Mangan, Miss. Mary",Female,364850,,Queenstown,,Adult (30-50],Lowest Fare (0-8],
+993,Yes,Third,"Mannion, Miss. Margareth",Female,36866,,Queenstown,16,Missing,Lowest Fare (0-8],
+994,No,Third,"Mardirosian, Mr. Sarkis",Male,2655,F E46,Cherbourg,,Missing,Lowest Fare (0-8],F
+995,No,Third,"Markoff, Mr. Marin",Male,349213,,Cherbourg,,Adult (30-50],Lowest Fare (0-8],
+996,No,Third,"Markun, Mr. Johann",Male,349257,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+997,Yes,Third,"Masselmani, Mrs. Fatima",Female,2649,,Cherbourg,C,Missing,Lowest Fare (0-8],
+998,No,Third,"Matinoff, Mr. Nicola",Male,349255,,Cherbourg,,Missing,Lowest Fare (0-8],
+999,Yes,Third,"McCarthy, Miss. Catherine ""Katie""",Female,383123,,Queenstown,15 16,Missing,Lowest Fare (0-8],
+1000,Yes,Third,"McCormack, Mr. Thomas Joseph",Male,367228,,Queenstown,,Missing,Lowest Fare (0-8],
+1001,Yes,Third,"McCoy, Miss. Agnes",Female,367226,,Queenstown,16,Missing,Premium Fare (22-41.5],
+1002,Yes,Third,"McCoy, Miss. Alicia",Female,367226,,Queenstown,16,Missing,Premium Fare (22-41.5],
+1003,Yes,Third,"McCoy, Mr. Bernard",Male,367226,,Queenstown,16,Missing,Premium Fare (22-41.5],
+1004,Yes,Third,"McDermott, Miss. Brigdet Delia",Female,330932,,Queenstown,13,Missing,Lowest Fare (0-8],
+1005,No,Third,"McEvoy, Mr. Michael",Male,36568,,Queenstown,,Missing,Standard Fare (10.5-22],
+1006,Yes,Third,"McGovern, Miss. Mary",Female,330931,,Queenstown,13,Missing,Lowest Fare (0-8],
+1007,Yes,Third,"McGowan, Miss. Anna ""Annie""",Female,330923,,Queenstown,,Teen(12-18],Budget Fare (8-10.5],
+1008,No,Third,"McGowan, Miss. Katherine",Female,9232,,Queenstown,,Adult (30-50],Lowest Fare (0-8],
+1009,No,Third,"McMahon, Mr. Martin",Male,370372,,Queenstown,,Missing,Lowest Fare (0-8],
+1010,No,Third,"McNamee, Mr. Neal",Male,376566,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+1011,No,Third,"McNamee, Mrs. Neal (Eileen O'Leary)",Female,376566,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+1012,No,Third,"McNeill, Miss. Bridget",Female,370368,,Queenstown,,Missing,Lowest Fare (0-8],
+1013,No,Third,"Meanwell, Miss. (Marion Ogden)",Female,SOTON/O.Q. 392087,,Southampton,,Missing,Budget Fare (8-10.5],
+1014,No,Third,"Meek, Mrs. Thomas (Annie Louise Rowley)",Female,343095,,Southampton,,Missing,Budget Fare (8-10.5],
+1015,No,Third,"Meo, Mr. Alfonzo",Male,A.5. 11206,,Southampton,,Middle Aged (50-65],Budget Fare (8-10.5],
+1016,No,Third,"Mernagh, Mr. Robert",Male,368703,,Queenstown,,Missing,Lowest Fare (0-8],
+1017,Yes,Third,"Midtsjo, Mr. Karl Albert",Male,345501,,Southampton,15,Young Adult (18-30],Lowest Fare (0-8],
+1018,No,Third,"Miles, Mr. Frank",Male,359306,,Southampton,,Missing,Budget Fare (8-10.5],
+1019,No,Third,"Mineff, Mr. Ivan",Male,349233,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1020,No,Third,"Minkoff, Mr. Lazar",Male,349211,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1021,No,Third,"Mionoff, Mr. Stoytcho",Male,349207,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1022,No,Third,"Mitkoff, Mr. Mito",Male,349221,,Southampton,,Missing,Lowest Fare (0-8],
+1023,Yes,Third,"Mockler, Miss. Helen Mary ""Ellie""",Female,330980,,Queenstown,16,Missing,Lowest Fare (0-8],
+1024,No,Third,"Moen, Mr. Sigurd Hansen",Male,348123,F G73,Southampton,,Young Adult (18-30],Lowest Fare (0-8],F
+1025,Yes,Third,"Moor, Master. Meier",Male,392096,E121,Southampton,14,Child (5-12] ,Standard Fare (10.5-22],E
+1026,Yes,Third,"Moor, Mrs. (Beila)",Female,392096,E121,Southampton,14,Young Adult (18-30],Standard Fare (10.5-22],E
+1027,No,Third,"Moore, Mr. Leonard Charles",Male,A4. 54510,,Southampton,,Missing,Budget Fare (8-10.5],
+1028,Yes,Third,"Moran, Miss. Bertha",Female,371110,,Queenstown,16,Missing,Premium Fare (22-41.5],
+1029,No,Third,"Moran, Mr. Daniel J",Male,371110,,Queenstown,,Missing,Premium Fare (22-41.5],
+1030,No,Third,"Moran, Mr. James",Male,330877,,Queenstown,,Missing,Budget Fare (8-10.5],
+1031,No,Third,"Morley, Mr. William",Male,364506,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1032,No,Third,"Morrow, Mr. Thomas Rowan",Male,372622,,Queenstown,,Missing,Lowest Fare (0-8],
+1033,Yes,Third,"Moss, Mr. Albert Johan",Male,312991,,Southampton,B,Missing,Lowest Fare (0-8],
+1034,Yes,Third,"Moubarek, Master. Gerios",Male,2661,,Cherbourg,C,Missing,Standard Fare (10.5-22],
+1035,Yes,Third,"Moubarek, Master. Halim Gonios (""William George"")",Male,2661,,Cherbourg,C,Missing,Standard Fare (10.5-22],
+1036,Yes,Third,"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",Female,2661,,Cherbourg,C,Missing,Standard Fare (10.5-22],
+1037,Yes,Third,"Moussa, Mrs. (Mantoura Boulos)",Female,2626,,Cherbourg,,Missing,Lowest Fare (0-8],
+1038,No,Third,"Moutal, Mr. Rahamin Haim",Male,374746,,Southampton,,Missing,Budget Fare (8-10.5],
+1039,Yes,Third,"Mullens, Miss. Katherine ""Katie""",Female,35852,,Queenstown,16,Missing,Lowest Fare (0-8],
+1040,Yes,Third,"Mulvihill, Miss. Bertha E",Female,382653,,Queenstown,15,Young Adult (18-30],Lowest Fare (0-8],
+1041,No,Third,"Murdlin, Mr. Joseph",Male,A./5. 3235,,Southampton,,Missing,Budget Fare (8-10.5],
+1042,Yes,Third,"Murphy, Miss. Katherine ""Kate""",Female,367230,,Queenstown,16,Missing,Standard Fare (10.5-22],
+1043,Yes,Third,"Murphy, Miss. Margaret Jane",Female,367230,,Queenstown,16,Missing,Standard Fare (10.5-22],
+1044,Yes,Third,"Murphy, Miss. Nora",Female,36568,,Queenstown,16,Missing,Standard Fare (10.5-22],
+1045,No,Third,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Male,347078,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+1046,No,Third,"Naidenoff, Mr. Penko",Male,349206,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1047,Yes,Third,"Najib, Miss. Adele Kiamie ""Jane""",Female,2667,,Cherbourg,C,Teen(12-18],Lowest Fare (0-8],
+1048,Yes,Third,"Nakid, Miss. Maria (""Mary"")",Female,2653,,Cherbourg,C,Infant(0-1],Standard Fare (10.5-22],
+1049,Yes,Third,"Nakid, Mr. Sahid",Male,2653,,Cherbourg,C,Young Adult (18-30],Standard Fare (10.5-22],
+1050,Yes,Third,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",Female,2653,,Cherbourg,C,Young Adult (18-30],Standard Fare (10.5-22],
+1051,No,Third,"Nancarrow, Mr. William Henry",Male,A./5. 3338,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1052,No,Third,"Nankoff, Mr. Minko",Male,349218,,Southampton,,Missing,Lowest Fare (0-8],
+1053,No,Third,"Nasr, Mr. Mustafa",Male,2652,,Cherbourg,,Missing,Lowest Fare (0-8],
+1054,No,Third,"Naughton, Miss. Hannah",Female,365237,,Queenstown,,Missing,Lowest Fare (0-8],
+1055,No,Third,"Nenkoff, Mr. Christo",Male,349234,,Southampton,,Missing,Lowest Fare (0-8],
+1056,Yes,Third,"Nicola-Yarred, Master. Elias",Male,2651,,Cherbourg,C,Child (5-12] ,Standard Fare (10.5-22],
+1057,Yes,Third,"Nicola-Yarred, Miss. Jamila",Female,2651,,Cherbourg,C,Teen(12-18],Standard Fare (10.5-22],
+1058,No,Third,"Nieminen, Miss. Manta Josefina",Female,3101297,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1059,No,Third,"Niklasson, Mr. Samuel",Male,363611,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1060,Yes,Third,"Nilsson, Miss. Berta Olivia",Female,347066,,Southampton,D,Teen(12-18],Lowest Fare (0-8],
+1061,Yes,Third,"Nilsson, Miss. Helmina Josefina",Female,347470,,Southampton,13,Young Adult (18-30],Lowest Fare (0-8],
+1062,No,Third,"Nilsson, Mr. August Ferdinand",Male,350410,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1063,No,Third,"Nirva, Mr. Iisakki Antino Aijo",Male,SOTON/O2 3101272,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1064,Yes,Third,"Niskanen, Mr. Juha",Male,STON/O 2. 3101289,,Southampton,9,Adult (30-50],Lowest Fare (0-8],
+1065,No,Third,"Nosworthy, Mr. Richard Cater",Male,A/4. 39886,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1066,No,Third,"Novel, Mr. Mansouer",Male,2697,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+1067,Yes,Third,"Nysten, Miss. Anna Sofia",Female,347081,,Southampton,13,Young Adult (18-30],Lowest Fare (0-8],
+1068,No,Third,"Nysveen, Mr. Johan Hansen",Male,345364,,Southampton,,Middle Aged (50-65],Lowest Fare (0-8],
+1069,No,Third,"O'Brien, Mr. Thomas",Male,370365,,Queenstown,,Missing,Standard Fare (10.5-22],
+1070,No,Third,"O'Brien, Mr. Timothy",Male,330979,,Queenstown,,Missing,Lowest Fare (0-8],
+1071,Yes,Third,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Female,370365,,Queenstown,,Missing,Standard Fare (10.5-22],
+1072,No,Third,"O'Connell, Mr. Patrick D",Male,334912,,Queenstown,,Missing,Lowest Fare (0-8],
+1073,No,Third,"O'Connor, Mr. Maurice",Male,371060,,Queenstown,,Missing,Lowest Fare (0-8],
+1074,No,Third,"O'Connor, Mr. Patrick",Male,366713,,Queenstown,,Missing,Lowest Fare (0-8],
+1075,No,Third,"Odahl, Mr. Nils Martin",Male,7267,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1076,No,Third,"O'Donoghue, Ms. Bridget",Female,364856,,Queenstown,,Missing,Lowest Fare (0-8],
+1077,Yes,Third,"O'Driscoll, Miss. Bridget",Female,14311,,Queenstown,D,Missing,Lowest Fare (0-8],
+1078,Yes,Third,"O'Dwyer, Miss. Ellen ""Nellie""",Female,330959,,Queenstown,,Missing,Lowest Fare (0-8],
+1079,Yes,Third,"Ohman, Miss. Velin",Female,347085,,Southampton,C,Young Adult (18-30],Lowest Fare (0-8],
+1080,Yes,Third,"O'Keefe, Mr. Patrick",Male,368402,,Queenstown,B,Missing,Lowest Fare (0-8],
+1081,Yes,Third,"O'Leary, Miss. Hanora ""Norah""",Female,330919,,Queenstown,13,Missing,Lowest Fare (0-8],
+1082,Yes,Third,"Olsen, Master. Artur Karl",Male,C 17368,,Southampton,13,Child (5-12] ,Lowest Fare (0-8],
+1083,No,Third,"Olsen, Mr. Henry Margido",Male,C 4001,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+1084,No,Third,"Olsen, Mr. Karl Siegwart Andreas",Male,4579,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1085,No,Third,"Olsen, Mr. Ole Martin",Male,Fa 265302,,Southampton,,Missing,Lowest Fare (0-8],
+1086,No,Third,"Olsson, Miss. Elina",Female,350407,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1087,No,Third,"Olsson, Mr. Nils Johan Goransson",Male,347464,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1088,Yes,Third,"Olsson, Mr. Oscar Wilhelm",Male,347079,,Southampton,A,Adult (30-50],Lowest Fare (0-8],
+1089,No,Third,"Olsvigen, Mr. Thor Anderson",Male,6563,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1090,No,Third,"Oreskovic, Miss. Jelka",Female,315085,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1091,No,Third,"Oreskovic, Miss. Marija",Female,315096,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1092,No,Third,"Oreskovic, Mr. Luka",Male,315094,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1093,No,Third,"Osen, Mr. Olaf Elon",Male,7534,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+1094,Yes,Third,"Osman, Mrs. Mara",Female,349244,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1095,No,Third,"O'Sullivan, Miss. Bridget Mary",Female,330909,,Queenstown,,Missing,Lowest Fare (0-8],
+1096,No,Third,"Palsson, Master. Gosta Leonard",Male,349909,,Southampton,,Toddler (1-5],Standard Fare (10.5-22],
+1097,No,Third,"Palsson, Master. Paul Folke",Male,349909,,Southampton,,Child (5-12] ,Standard Fare (10.5-22],
+1098,No,Third,"Palsson, Miss. Stina Viola",Female,349909,,Southampton,,Toddler (1-5],Standard Fare (10.5-22],
+1099,No,Third,"Palsson, Miss. Torborg Danira",Female,349909,,Southampton,,Child (5-12] ,Standard Fare (10.5-22],
+1100,No,Third,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Female,349909,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+1101,No,Third,"Panula, Master. Eino Viljami",Male,3101295,,Southampton,,Infant(0-1],Premium Fare (22-41.5],
+1102,No,Third,"Panula, Master. Juha Niilo",Male,3101295,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+1103,No,Third,"Panula, Master. Urho Abraham",Male,3101295,,Southampton,,Toddler (1-5],Premium Fare (22-41.5],
+1104,No,Third,"Panula, Mr. Ernesti Arvid",Male,3101295,,Southampton,,Teen(12-18],Premium Fare (22-41.5],
+1105,No,Third,"Panula, Mr. Jaako Arnold",Male,3101295,,Southampton,,Teen(12-18],Premium Fare (22-41.5],
+1106,No,Third,"Panula, Mrs. Juha (Maria Emilia Ojala)",Female,3101295,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+1107,No,Third,"Pasic, Mr. Jakob",Male,315097,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1108,No,Third,"Patchett, Mr. George",Male,358585,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+1109,No,Third,"Paulner, Mr. Uscher",Male,3411,,Cherbourg,,Missing,Budget Fare (8-10.5],
+1110,No,Third,"Pavlovic, Mr. Stefo",Male,349242,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1111,No,Third,"Peacock, Master. Alfred Edward",Male,SOTON/O.Q. 3101315,,Southampton,,Infant(0-1],Standard Fare (10.5-22],
+1112,No,Third,"Peacock, Miss. Treasteall",Female,SOTON/O.Q. 3101315,,Southampton,,Toddler (1-5],Standard Fare (10.5-22],
+1113,No,Third,"Peacock, Mrs. Benjamin (Edith Nile)",Female,SOTON/O.Q. 3101315,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+1114,No,Third,"Pearce, Mr. Ernest",Male,343271,,Southampton,,Missing,Lowest Fare (0-8],
+1115,No,Third,"Pedersen, Mr. Olaf",Male,345498,,Southampton,,Missing,Lowest Fare (0-8],
+1116,No,Third,"Peduzzi, Mr. Joseph",Male,A/5 2817,,Southampton,,Missing,Budget Fare (8-10.5],
+1117,No,Third,"Pekoniemi, Mr. Edvard",Male,STON/O 2. 3101294,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1118,No,Third,"Peltomaki, Mr. Nikolai Johannes",Male,STON/O 2. 3101291,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1119,No,Third,"Perkin, Mr. John Henry",Male,A/5 21174,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1120,Yes,Third,"Persson, Mr. Ernst Ulrik",Male,347083,,Southampton,15,Young Adult (18-30],Lowest Fare (0-8],
+1121,Yes,Third,"Peter, Master. Michael J",Male,2668,,Cherbourg,C,Missing,Premium Fare (22-41.5],
+1122,Yes,Third,"Peter, Miss. Anna",Female,2668,F E69,Cherbourg,D,Missing,Premium Fare (22-41.5],F
+1123,Yes,Third,"Peter, Mrs. Catherine (Catherine Rizk)",Female,2668,,Cherbourg,D,Missing,Premium Fare (22-41.5],
+1124,No,Third,"Peters, Miss. Katie",Female,330935,,Queenstown,,Missing,Budget Fare (8-10.5],
+1125,No,Third,"Petersen, Mr. Marius",Male,342441,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1126,No,Third,"Petranec, Miss. Matilda",Female,349245,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1127,No,Third,"Petroff, Mr. Nedelio",Male,349212,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1128,No,Third,"Petroff, Mr. Pastcho (""Pentcho"")",Male,349215,,Southampton,,Missing,Lowest Fare (0-8],
+1129,No,Third,"Petterson, Mr. Johan Emil",Male,347076,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1130,No,Third,"Pettersson, Miss. Ellen Natalia",Female,347087,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+1131,Yes,Third,"Pickard, Mr. Berk (Berk Trembisky)",Male,SOTON/O.Q. 392078,E10,Southampton,9,Adult (30-50],Budget Fare (8-10.5],E
+1132,No,Third,"Plotcharsky, Mr. Vasil",Male,349227,,Southampton,,Missing,Lowest Fare (0-8],
+1133,No,Third,"Pokrnic, Mr. Mate",Male,315095,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+1134,No,Third,"Pokrnic, Mr. Tome",Male,315092,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1135,No,Third,"Radeff, Mr. Alexander",Male,349223,,Southampton,,Missing,Lowest Fare (0-8],
+1136,No,Third,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",Female,65305,,Southampton,,Missing,Budget Fare (8-10.5],
+1137,No,Third,"Razi, Mr. Raihed",Male,2629,,Cherbourg,,Missing,Lowest Fare (0-8],
+1138,No,Third,"Reed, Mr. James George",Male,362316,,Southampton,,Missing,Lowest Fare (0-8],
+1139,No,Third,"Rekic, Mr. Tido",Male,349249,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1140,No,Third,"Reynolds, Mr. Harold J",Male,342684,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1141,No,Third,"Rice, Master. Albert",Male,382652,,Queenstown,,Child (5-12] ,Premium Fare (22-41.5],
+1142,No,Third,"Rice, Master. Arthur",Male,382652,,Queenstown,,Toddler (1-5],Premium Fare (22-41.5],
+1143,No,Third,"Rice, Master. Eric",Male,382652,,Queenstown,,Child (5-12] ,Premium Fare (22-41.5],
+1144,No,Third,"Rice, Master. Eugene",Male,382652,,Queenstown,,Toddler (1-5],Premium Fare (22-41.5],
+1145,No,Third,"Rice, Master. George Hugh",Male,382652,,Queenstown,,Child (5-12] ,Premium Fare (22-41.5],
+1146,No,Third,"Rice, Mrs. William (Margaret Norton)",Female,382652,,Queenstown,,Adult (30-50],Premium Fare (22-41.5],
+1147,No,Third,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",Female,3101295,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+1148,No,Third,"Rintamaki, Mr. Matti",Male,STON/O 2. 3101273,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1149,Yes,Third,"Riordan, Miss. Johanna ""Hannah""",Female,334915,,Queenstown,13,Missing,Lowest Fare (0-8],
+1150,No,Third,"Risien, Mr. Samuel Beard",Male,364498,,Southampton,,Missing,Standard Fare (10.5-22],
+1151,No,Third,"Risien, Mrs. Samuel (Emma)",Female,364498,,Southampton,,Missing,Standard Fare (10.5-22],
+1152,No,Third,"Robins, Mr. Alexander A",Male,A/5. 3337,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+1153,No,Third,"Robins, Mrs. Alexander A (Grace Charity Laury)",Female,A/5. 3337,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+1154,No,Third,"Rogers, Mr. William John",Male,S.C./A.4. 23567,,Southampton,,Missing,Budget Fare (8-10.5],
+1155,No,Third,"Rommetvedt, Mr. Knud Paust",Male,312993,,Southampton,,Missing,Lowest Fare (0-8],
+1156,No,Third,"Rosblom, Miss. Salli Helena",Female,370129,,Southampton,,Toddler (1-5],Standard Fare (10.5-22],
+1157,No,Third,"Rosblom, Mr. Viktor Richard",Male,370129,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+1158,No,Third,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Female,370129,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+1159,Yes,Third,"Roth, Miss. Sarah A",Female,342712,,Southampton,C,Missing,Budget Fare (8-10.5],
+1160,No,Third,"Rouse, Mr. Richard Henry",Male,A/5 3594,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1161,No,Third,"Rush, Mr. Alfred George John",Male,A/4. 20589,,Southampton,,Teen(12-18],Budget Fare (8-10.5],
+1162,Yes,Third,"Ryan, Mr. Edward",Male,383162,,Queenstown,14,Missing,Lowest Fare (0-8],
+1163,No,Third,"Ryan, Mr. Patrick",Male,371110,,Queenstown,,Missing,Premium Fare (22-41.5],
+1164,No,Third,"Saad, Mr. Amin",Male,2671,,Cherbourg,,Missing,Lowest Fare (0-8],
+1165,No,Third,"Saad, Mr. Khalil",Male,2672,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+1166,No,Third,"Saade, Mr. Jean Nassr",Male,2676,,Cherbourg,,Missing,Lowest Fare (0-8],
+1167,No,Third,"Sadlier, Mr. Matthew",Male,367655,,Queenstown,,Missing,Lowest Fare (0-8],
+1168,No,Third,"Sadowitz, Mr. Harry",Male,LP 1588,,Southampton,,Missing,Lowest Fare (0-8],
+1169,No,Third,"Saether, Mr. Simon Sivertsen",Male,SOTON/O.Q. 3101262,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1170,No,Third,"Sage, Master. Thomas Henry",Male,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1171,No,Third,"Sage, Master. William Henry",Male,CA. 2343,,Southampton,,Teen(12-18],Luxury Fare (41.5-513],
+1172,No,Third,"Sage, Miss. Ada",Female,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1173,No,Third,"Sage, Miss. Constance Gladys",Female,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1174,No,Third,"Sage, Miss. Dorothy Edith ""Dolly""",Female,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1175,No,Third,"Sage, Miss. Stella Anna",Female,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1176,No,Third,"Sage, Mr. Douglas Bullen",Male,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1177,No,Third,"Sage, Mr. Frederick",Male,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1178,No,Third,"Sage, Mr. George John Jr",Male,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1179,No,Third,"Sage, Mr. John George",Male,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1180,No,Third,"Sage, Mrs. John (Annie Bullen)",Female,CA. 2343,,Southampton,,Missing,Luxury Fare (41.5-513],
+1181,No,Third,"Salander, Mr. Karl Johan",Male,7266,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1182,Yes,Third,"Salkjelsvik, Miss. Anna Kristine",Female,343120,,Southampton,C,Young Adult (18-30],Lowest Fare (0-8],
+1183,No,Third,"Salonen, Mr. Johan Werner",Male,3101296,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1184,No,Third,"Samaan, Mr. Elias",Male,2662,,Cherbourg,,Missing,Standard Fare (10.5-22],
+1185,No,Third,"Samaan, Mr. Hanna",Male,2662,,Cherbourg,,Missing,Standard Fare (10.5-22],
+1186,No,Third,"Samaan, Mr. Youssef",Male,2662,,Cherbourg,,Missing,Standard Fare (10.5-22],
+1187,Yes,Third,"Sandstrom, Miss. Beatrice Irene",Female,PP 9549,G6,Southampton,13,Infant(0-1],Standard Fare (10.5-22],G
+1188,Yes,Third,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Female,PP 9549,G6,Southampton,13,Young Adult (18-30],Standard Fare (10.5-22],G
+1189,Yes,Third,"Sandstrom, Miss. Marguerite Rut",Female,PP 9549,G6,Southampton,13,Toddler (1-5],Standard Fare (10.5-22],G
+1190,Yes,Third,"Sap, Mr. Julius",Male,345768,,Southampton,11,Young Adult (18-30],Budget Fare (8-10.5],
+1191,No,Third,"Saundercock, Mr. William Henry",Male,A/5. 2151,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1192,No,Third,"Sawyer, Mr. Frederick Charles",Male,342826,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1193,No,Third,"Scanlan, Mr. James",Male,36209,,Queenstown,,Missing,Lowest Fare (0-8],
+1194,No,Third,"Sdycoff, Mr. Todor",Male,349222,,Southampton,,Missing,Lowest Fare (0-8],
+1195,No,Third,"Shaughnessy, Mr. Patrick",Male,370374,,Queenstown,,Missing,Lowest Fare (0-8],
+1196,Yes,Third,"Sheerlinck, Mr. Jan Baptist",Male,345779,,Southampton,11,Young Adult (18-30],Budget Fare (8-10.5],
+1197,No,Third,"Shellard, Mr. Frederick William",Male,C.A. 6212,,Southampton,,Missing,Standard Fare (10.5-22],
+1198,Yes,Third,"Shine, Miss. Ellen Natalia",Female,330968,,Queenstown,,Missing,Lowest Fare (0-8],
+1199,No,Third,"Shorney, Mr. Charles Joseph",Male,374910,,Southampton,,Missing,Budget Fare (8-10.5],
+1200,No,Third,"Simmons, Mr. John",Male,SOTON/OQ 392082,,Southampton,,Missing,Budget Fare (8-10.5],
+1201,No,Third,"Sirayanian, Mr. Orsen",Male,2669,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+1202,No,Third,"Sirota, Mr. Maurice",Male,392092,,Southampton,,Missing,Budget Fare (8-10.5],
+1203,No,Third,"Sivic, Mr. Husein",Male,349251,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1204,No,Third,"Sivola, Mr. Antti Wilhelm",Male,STON/O 2. 3101280,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1205,Yes,Third,"Sjoblom, Miss. Anna Sofia",Female,3101265,,Southampton,16,Teen(12-18],Lowest Fare (0-8],
+1206,No,Third,"Skoog, Master. Harald",Male,347088,,Southampton,,Toddler (1-5],Premium Fare (22-41.5],
+1207,No,Third,"Skoog, Master. Karl Thorsten",Male,347088,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+1208,No,Third,"Skoog, Miss. Mabel",Female,347088,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+1209,No,Third,"Skoog, Miss. Margit Elizabeth",Female,347088,,Southampton,,Toddler (1-5],Premium Fare (22-41.5],
+1210,No,Third,"Skoog, Mr. Wilhelm",Male,347088,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+1211,No,Third,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Female,347088,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+1212,No,Third,"Slabenoff, Mr. Petco",Male,349214,,Southampton,,Missing,Lowest Fare (0-8],
+1213,No,Third,"Slocovski, Mr. Selman Francis",Male,SOTON/OQ 392086,,Southampton,,Missing,Budget Fare (8-10.5],
+1214,No,Third,"Smiljanic, Mr. Mile",Male,315037,,Southampton,,Missing,Budget Fare (8-10.5],
+1215,No,Third,"Smith, Mr. Thomas",Male,384461,,Queenstown,,Missing,Lowest Fare (0-8],
+1216,Yes,Third,"Smyth, Miss. Julia",Female,335432,,Queenstown,13,Missing,Lowest Fare (0-8],
+1217,No,Third,"Soholt, Mr. Peter Andreas Lauritz Andersen",Male,348124,F G73,Southampton,,Young Adult (18-30],Lowest Fare (0-8],F
+1218,No,Third,"Somerton, Mr. Francis William",Male,A.5. 18509,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1219,No,Third,"Spector, Mr. Woolf",Male,A.5. 3236,,Southampton,,Missing,Budget Fare (8-10.5],
+1220,No,Third,"Spinner, Mr. Henry John",Male,STON/OQ. 369943,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1221,No,Third,"Staneff, Mr. Ivan",Male,349208,,Southampton,,Missing,Lowest Fare (0-8],
+1222,No,Third,"Stankovic, Mr. Ivan",Male,349239,,Cherbourg,,Adult (30-50],Budget Fare (8-10.5],
+1223,Yes,Third,"Stanley, Miss. Amy Zillah Elsie",Female,CA. 2314,,Southampton,C,Young Adult (18-30],Lowest Fare (0-8],
+1224,No,Third,"Stanley, Mr. Edward Roland",Male,A/4 45380,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1225,No,Third,"Storey, Mr. Thomas",Male,3701,,Southampton,,Middle Aged (50-65],Missing,
+1226,No,Third,"Stoytcheff, Mr. Ilia",Male,349205,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1227,No,Third,"Strandberg, Miss. Ida Sofia",Female,7553,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1228,Yes,Third,"Stranden, Mr. Juho",Male,STON/O 2. 3101288,,Southampton,9,Adult (30-50],Lowest Fare (0-8],
+1229,No,Third,"Strilic, Mr. Ivan",Male,315083,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1230,No,Third,"Strom, Miss. Telma Matilda",Female,347054,G6,Southampton,,Toddler (1-5],Budget Fare (8-10.5],G
+1231,No,Third,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Female,347054,G6,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],G
+1232,Yes,Third,"Sunderland, Mr. Victor Francis",Male,SOTON/OQ 392089,,Southampton,B,Teen(12-18],Budget Fare (8-10.5],
+1233,Yes,Third,"Sundman, Mr. Johan Julian",Male,STON/O 2. 3101269,,Southampton,15,Adult (30-50],Lowest Fare (0-8],
+1234,No,Third,"Sutehall, Mr. Henry Jr",Male,SOTON/OQ 392076,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1235,No,Third,"Svensson, Mr. Johan",Male,347060,,Southampton,,Senior (65-),Lowest Fare (0-8],
+1236,Yes,Third,"Svensson, Mr. Johan Cervin",Male,7538,,Southampton,13,Teen(12-18],Budget Fare (8-10.5],
+1237,No,Third,"Svensson, Mr. Olof",Male,350035,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1238,Yes,Third,"Tenglin, Mr. Gunnar Isidor",Male,350033,,Southampton,13 15,Young Adult (18-30],Lowest Fare (0-8],
+1239,No,Third,"Theobald, Mr. Thomas Leonard",Male,363294,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1240,Yes,Third,"Thomas, Master. Assad Alexander",Male,2625,,Cherbourg,16,Infant(0-1],Budget Fare (8-10.5],
+1241,No,Third,"Thomas, Mr. Charles P",Male,2621,,Cherbourg,,Missing,Lowest Fare (0-8],
+1242,No,Third,"Thomas, Mr. John",Male,2681,,Cherbourg,,Missing,Lowest Fare (0-8],
+1243,No,Third,"Thomas, Mr. Tannous",Male,2684,,Cherbourg,,Missing,Lowest Fare (0-8],
+1244,Yes,Third,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",Female,2625,,Cherbourg,14,Teen(12-18],Budget Fare (8-10.5],
+1245,No,Third,"Thomson, Mr. Alexander Morrison",Male,32302,,Southampton,,Missing,Budget Fare (8-10.5],
+1246,No,Third,"Thorneycroft, Mr. Percival",Male,376564,,Southampton,,Missing,Standard Fare (10.5-22],
+1247,Yes,Third,"Thorneycroft, Mrs. Percival (Florence Kate White)",Female,376564,,Southampton,10,Missing,Standard Fare (10.5-22],
+1248,No,Third,"Tikkanen, Mr. Juho",Male,STON/O 2. 3101293,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1249,No,Third,"Tobin, Mr. Roger",Male,383121,F38,Queenstown,,Missing,Lowest Fare (0-8],F
+1250,No,Third,"Todoroff, Mr. Lalio",Male,349216,,Southampton,,Missing,Lowest Fare (0-8],
+1251,No,Third,"Tomlin, Mr. Ernest Portage",Male,364499,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1252,No,Third,"Torber, Mr. Ernst William",Male,364511,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1253,No,Third,"Torfa, Mr. Assad",Male,2673,,Cherbourg,,Missing,Lowest Fare (0-8],
+1254,Yes,Third,"Tornquist, Mr. William Henry",Male,LINE,,Southampton,15,Young Adult (18-30],Lowest Fare (0-8],
+1255,No,Third,"Toufik, Mr. Nakli",Male,2641,,Cherbourg,,Missing,Lowest Fare (0-8],
+1256,Yes,Third,"Touma, Master. Georges Youssef",Male,2650,,Cherbourg,C,Child (5-12] ,Standard Fare (10.5-22],
+1257,Yes,Third,"Touma, Miss. Maria Youssef",Female,2650,,Cherbourg,C,Child (5-12] ,Standard Fare (10.5-22],
+1258,Yes,Third,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Female,2650,,Cherbourg,C,Young Adult (18-30],Standard Fare (10.5-22],
+1259,No,Third,"Turcin, Mr. Stjepan",Male,349247,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1260,Yes,Third,"Turja, Miss. Anna Sofia",Female,4138,,Southampton,15,Teen(12-18],Budget Fare (8-10.5],
+1261,Yes,Third,"Turkula, Mrs. (Hedwig)",Female,4134,,Southampton,15,Middle Aged (50-65],Budget Fare (8-10.5],
+1262,No,Third,"van Billiard, Master. James William",Male,A/5. 851,,Southampton,,Missing,Standard Fare (10.5-22],
+1263,No,Third,"van Billiard, Master. Walter John",Male,A/5. 851,,Southampton,,Child (5-12] ,Standard Fare (10.5-22],
+1264,No,Third,"van Billiard, Mr. Austin Blyler",Male,A/5. 851,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+1265,No,Third,"Van Impe, Miss. Catharina",Female,345773,,Southampton,,Child (5-12] ,Premium Fare (22-41.5],
+1266,No,Third,"Van Impe, Mr. Jean Baptiste",Male,345773,,Southampton,,Adult (30-50],Premium Fare (22-41.5],
+1267,No,Third,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Female,345773,,Southampton,,Young Adult (18-30],Premium Fare (22-41.5],
+1268,No,Third,"van Melkebeke, Mr. Philemon",Male,345777,,Southampton,,Missing,Budget Fare (8-10.5],
+1269,No,Third,"Vande Velde, Mr. Johannes Joseph",Male,345780,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1270,No,Third,"Vande Walle, Mr. Nestor Cyriel",Male,345770,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1271,No,Third,"Vanden Steen, Mr. Leo Peter",Male,345783,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1272,No,Third,"Vander Cruyssen, Mr. Victor",Male,345765,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1273,No,Third,"Vander Planke, Miss. Augusta Maria",Female,345764,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+1274,No,Third,"Vander Planke, Mr. Julius",Male,345763,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+1275,No,Third,"Vander Planke, Mr. Leo Edmondus",Male,345764,,Southampton,,Teen(12-18],Standard Fare (10.5-22],
+1276,No,Third,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Female,345763,,Southampton,,Adult (30-50],Standard Fare (10.5-22],
+1277,Yes,Third,"Vartanian, Mr. David",Male,2658,,Cherbourg,13 15,Young Adult (18-30],Lowest Fare (0-8],
+1278,No,Third,"Vendel, Mr. Olof Edvin",Male,350416,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1279,No,Third,"Vestrom, Miss. Hulda Amanda Adolfina",Female,350406,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+1280,No,Third,"Vovk, Mr. Janko",Male,349252,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1281,No,Third,"Waelens, Mr. Achille",Male,345767,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1282,No,Third,"Ware, Mr. Frederick",Male,359309,,Southampton,,Missing,Budget Fare (8-10.5],
+1283,No,Third,"Warren, Mr. Charles William",Male,C.A. 49867,,Southampton,,Missing,Lowest Fare (0-8],
+1284,No,Third,"Webber, Mr. James",Male,SOTON/OQ 3101316,,Southampton,,Missing,Budget Fare (8-10.5],
+1285,No,Third,"Wenzel, Mr. Linhart",Male,345775,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1286,Yes,Third,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",Female,2688,,Cherbourg,C,Adult (30-50],Lowest Fare (0-8],
+1287,No,Third,"Widegren, Mr. Carl/Charles Peter",Male,347064,,Southampton,,Middle Aged (50-65],Lowest Fare (0-8],
+1288,No,Third,"Wiklund, Mr. Jakob Alfred",Male,3101267,,Southampton,,Teen(12-18],Lowest Fare (0-8],
+1289,No,Third,"Wiklund, Mr. Karl Johan",Male,3101266,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1290,Yes,Third,"Wilkes, Mrs. James (Ellen Needs)",Female,363272,,Southampton,,Adult (30-50],Lowest Fare (0-8],
+1291,No,Third,"Willer, Mr. Aaron (""Abi Weller"")",Male,3410,,Southampton,,Missing,Budget Fare (8-10.5],
+1292,No,Third,"Willey, Mr. Edward",Male,S.O./P.P. 751,,Southampton,,Missing,Lowest Fare (0-8],
+1293,No,Third,"Williams, Mr. Howard Hugh ""Harry""",Male,A/5 2466,,Southampton,,Missing,Budget Fare (8-10.5],
+1294,No,Third,"Williams, Mr. Leslie",Male,54636,,Southampton,,Young Adult (18-30],Standard Fare (10.5-22],
+1295,No,Third,"Windelov, Mr. Einar",Male,SOTON/OQ 3101317,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],
+1296,No,Third,"Wirz, Mr. Albert",Male,315154,,Southampton,,Young Adult (18-30],Budget Fare (8-10.5],
+1297,No,Third,"Wiseman, Mr. Phillippe",Male,A/4. 34244,,Southampton,,Missing,Lowest Fare (0-8],
+1298,No,Third,"Wittevrongel, Mr. Camille",Male,345771,,Southampton,,Adult (30-50],Budget Fare (8-10.5],
+1299,No,Third,"Yasbeck, Mr. Antoni",Male,2659,,Cherbourg,C,Young Adult (18-30],Standard Fare (10.5-22],
+1300,Yes,Third,"Yasbeck, Mrs. Antoni (Selini Alexander)",Female,2659,,Cherbourg,,Teen(12-18],Standard Fare (10.5-22],
+1301,No,Third,"Youseff, Mr. Gerious",Male,2628,,Cherbourg,,Adult (30-50],Lowest Fare (0-8],
+1302,No,Third,"Yousif, Mr. Wazli",Male,2647,,Cherbourg,,Missing,Lowest Fare (0-8],
+1303,No,Third,"Yousseff, Mr. Gerious",Male,2627,,Cherbourg,,Missing,Standard Fare (10.5-22],
+1304,No,Third,"Zabour, Miss. Hileni",Female,2665,,Cherbourg,,Teen(12-18],Standard Fare (10.5-22],
+1305,No,Third,"Zabour, Miss. Thamine",Female,2665,,Cherbourg,,Missing,Standard Fare (10.5-22],
+1306,No,Third,"Zakarian, Mr. Mapriededer",Male,2656,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+1307,No,Third,"Zakarian, Mr. Ortin",Male,2670,,Cherbourg,,Young Adult (18-30],Lowest Fare (0-8],
+1308,No,Third,"Zimmerman, Mr. Leo",Male,315082,,Southampton,,Young Adult (18-30],Lowest Fare (0-8],

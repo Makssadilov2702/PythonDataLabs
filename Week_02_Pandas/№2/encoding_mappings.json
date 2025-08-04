@@ -1,0 +1,104 @@
+{
+    "Passenger Class": {
+        "classes": [
+            "First",
+            "Second",
+            "Third"
+        ],
+        "codes": [
+            0,
+            1,
+            2
+        ]
+    },
+    "Sex": {
+        "classes": [
+            "Female",
+            "Male"
+        ],
+        "codes": [
+            0,
+            1
+        ]
+    },
+    "Port of Embarkation": {
+        "classes": [
+            "Cherbourg",
+            "Queenstown",
+            "Southampton",
+            NaN
+        ],
+        "codes": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "Age_Category": {
+        "classes": [
+            "Adult (30-50]",
+            "Child (5-12] ",
+            "Infant(0-1]",
+            "Middle Aged (50-65]",
+            "Missing",
+            "Senior (65-)",
+            "Teen(12-18]",
+            "Toddler (1-5]",
+            "Young Adult (18-30]"
+        ],
+        "codes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    "Fare_Category": {
+        "classes": [
+            "Budget Fare (8-10.5]",
+            "Lowest Fare (0-8]",
+            "Luxury Fare (41.5-513]",
+            "Missing",
+            "Premium Fare (22-41.5]",
+            "Standard Fare (10.5-22]"
+        ],
+        "codes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "Deck": {
+        "classes": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "T",
+            NaN
+        ],
+        "codes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    }
+}
